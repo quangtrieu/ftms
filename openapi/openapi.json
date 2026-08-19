@@ -1,0 +1,64 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "FTMS — Forever Task Management System API",
+    "version": "1.0.0",
+    "description": "REST JSON của FTMS. Mọi phản hồi dùng tên trường tiếng Việt đúng như prototype/số vàng. Xác thực: cookie httpOnly `ftms_sid` (JWT HS256, 12h). Kênh giao diện (/api/ui/*) là kênh riêng của client mỏng — không dành cho tích hợp."
+  },
+  "servers": [{ "url": "/" }],
+  "components": {
+    "securitySchemes": {
+      "cookieAuth": { "type": "apiKey", "in": "cookie", "name": "ftms_sid" }
+    }
+  },
+  "security": [{ "cookieAuth": [] }],
+  "paths": {
+    "/api/health": { "get": { "summary": "Tình trạng hệ thống", "security": [], "responses": { "200": { "description": "{ok, employees, redis, storage, version}" } } } },
+    "/api/auth/login": { "post": { "summary": "Đăng nhập nội bộ", "security": [], "requestBody": { "content": { "application/json": { "schema": { "type": "object", "properties": { "username": { "type": "string", "example": "f003" }, "password": { "type": "string" } } } } } }, "responses": { "200": { "description": "Set-Cookie ftms_sid; {ok, mustChange}" }, "401": { "description": "Sai tên/mật khẩu" }, "423": { "description": "Khoá 15 phút do sai 5 lần" }, "429": { "description": "Quá 30 lượt/IP/15 phút" } } } },
+    "/api/auth/logout": { "get": { "summary": "Đăng xuất", "responses": { "302": { "description": "Xoá cookie, về /dang-nhap" } } } },
+    "/api/auth/change-password": { "post": { "summary": "Đổi mật khẩu (mọi phiên cũ hết hiệu lực)", "requestBody": { "content": { "application/json": { "schema": { "type": "object", "properties": { "cu": { "type": "string" }, "moi": { "type": "string", "minLength": 8 } } } } } }, "responses": { "200": { "description": "Cookie mới" } } } },
+    "/api/auth/accounts": { "get": { "summary": "Danh sách tài khoản (cần quyền sua_to_chuc)", "responses": { "200": { "description": "username, employee_id, dangNhapCuoi, active…" } } } },
+    "/api/auth/accounts/{id}/reset-password": { "post": { "summary": "Đặt lại mật khẩu → mật khẩu tạm một lần", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "responses": { "200": { "description": "{matKhauTam}" } } } },
+    "/api/auth/accounts/{id}/active": { "post": { "summary": "Khoá/mở tài khoản — phiên đang mở chết ngay", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "requestBody": { "content": { "application/json": { "schema": { "type": "object", "properties": { "active": { "type": "boolean" } } } } } }, "responses": { "200": { "description": "{ok}" } } } },
+    "/api/me": { "get": { "summary": "Tôi là ai: hồ sơ, cửa sổ được mở, 12 quyền, hạng AI", "responses": { "200": { "description": "OK" } } } },
+    "/api/work-items": {
+      "get": { "summary": "Danh sách việc", "parameters": [
+        { "name": "scope", "in": "query", "schema": { "type": "string", "enum": ["mine", "all"] } },
+        { "name": "vai", "in": "query", "schema": { "type": "string", "enum": ["R", "A", "C", "I", "TAT_CA"] } },
+        { "name": "dv", "in": "query", "schema": { "type": "string" } },
+        { "name": "nguon", "in": "query", "schema": { "type": "string", "enum": ["CONG_VIEC", "DU_AN", "CHU_KY", "DOT_XUAT"] } },
+        { "name": "duAn", "in": "query", "schema": { "type": "string" } }
+      ], "responses": { "200": { "description": "Mỗi việc kèm chỉ số: quaHan, conLai, uuTien, tienDo, raci, ruiRo…" } } },
+      "post": { "summary": "Tạo việc (đúng ràng buộc taoViec của prototype: ≥1 tiêu chí, dk ∈ 1/2/3/5/8, đột xuất cần nguồn, không quyền giao_viec thì chỉ tạo cho mình)", "requestBody": { "content": { "application/json": { "schema": { "type": "object", "required": ["ttl", "sp", "tc"], "properties": { "nhom": { "type": "string", "enum": ["CONG_VIEC", "DU_AN", "CHU_KY", "DOT_XUAT"] }, "ttl": { "type": "string" }, "lam": { "type": "string" }, "bd": { "type": "string", "example": "04/09/2026" }, "han": { "type": "string" }, "dk": { "type": "integer", "enum": [1, 2, 3, 5, 8] }, "sp": { "type": "string" }, "tc": { "type": "array", "items": { "type": "string" } }, "tien": { "type": "string" }, "phoihop": { "type": "array", "items": { "type": "string" } }, "theodoi": { "type": "array", "items": { "type": "string" } }, "cha": { "type": "string" }, "truoc": { "type": "array", "items": { "type": "string" } }, "lap": { "type": "string" }, "nguon": { "type": "string" }, "mat": { "type": "string" }, "luat": { "type": "boolean" } } } } } }, "responses": { "201": { "description": "{ok, id}" }, "400": { "description": "Thiếu trường bắt buộc" } } }
+    },
+    "/api/work-items/{id}": { "get": { "summary": "Phiếu việc đầy đủ (mở việc Hạn chế sẽ vào nhật ký)", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "responses": { "200": { "description": "OK" }, "404": { "description": "Không có hoặc không có quyền xem" } } } },
+    "/api/work-items/{id}/accept": { "post": { "summary": "Nhận việc (act nhan)", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "responses": { "200": { "description": "OK" } } } },
+    "/api/work-items/{id}/feedback": { "post": { "summary": "Nêu ý kiến (dừng đồng hồ)", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "requestBody": { "content": { "application/json": { "schema": { "type": "object", "properties": { "loai": { "type": "string", "enum": ["HAN", "NGUONLUC", "NGUOI"] }, "noiDung": { "type": "string" } } } } } }, "responses": { "200": { "description": "OK" } } } },
+    "/api/work-items/{id}/feedback/reply": { "post": { "summary": "Trả lời ý kiến 4 cách (chốt số ngày dừng)", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "requestBody": { "content": { "application/json": { "schema": { "type": "object", "properties": { "cach": { "type": "string", "enum": ["giuNguyen", "doiHan", "themNguonLuc", "doiNguoi"] } } } } } }, "responses": { "200": { "description": "OK" } } } },
+    "/api/work-items/{id}/reschedule": { "post": { "summary": "Xin lùi hạn / đồng ý / từ chối", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "requestBody": { "content": { "application/json": { "schema": { "type": "object", "properties": { "action": { "type": "string", "enum": ["xinlui", "dongYLui", "tuChoiLui"] } } } } } }, "responses": { "200": { "description": "OK" } } } },
+    "/api/work-items/{id}/submit": { "post": { "summary": "Nộp kết quả (chặn nếu thiếu bằng chứng bắt buộc)", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "responses": { "200": { "description": "OK" } } } },
+    "/api/work-items/{id}/approve": { "post": { "summary": "Nghiệm thu chấm 4 tiêu chí 45/30/15/10 (đúng hạn tự động; điểm bất biến; tiền lớn → chuyển tầng duyệt)", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "requestBody": { "content": { "application/json": { "schema": { "type": "object", "properties": { "cl": { "type": "integer" }, "cd": { "type": "integer" }, "ht": { "type": "integer" }, "nx": { "type": "string" } } } } } }, "responses": { "200": { "description": "OK" } } } },
+    "/api/work-items/{id}/return": { "post": { "summary": "Trả lại (lan: 1 người duyệt · 2 người duyệt tầng trên)", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "requestBody": { "content": { "application/json": { "schema": { "type": "object", "properties": { "lan": { "type": "integer", "enum": [1, 2] } } } } } }, "responses": { "200": { "description": "OK" } } } },
+    "/api/work-items/{id}/health": { "patch": { "summary": "Tự báo sức khoẻ việc (BT/CHAM/TAC)", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "responses": { "200": { "description": "OK" } } } },
+    "/api/work-items/{id}/tick": { "post": { "summary": "Tích một tiêu chí nghiệm thu", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "requestBody": { "content": { "application/json": { "schema": { "type": "object", "properties": { "i": { "type": "integer" } } } } } }, "responses": { "200": { "description": "OK" } } } },
+    "/api/org/tree": { "get": { "summary": "Cây tổ chức + khối + vị trí + người", "responses": { "200": { "description": "OK" } } } },
+    "/api/people": { "get": { "summary": "Cá nhân trong tầm nhìn: tải, quá hạn, kỳ qua (Wilson), nút thắt", "responses": { "200": { "description": "OK" } } } },
+    "/api/people/{id}/work": { "get": { "summary": "Việc đang mở của một người", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "responses": { "200": { "description": "OK" } } } },
+    "/api/projects": { "get": { "summary": "Danh mục dự án: sức khoẻ, dự báo, mốc", "responses": { "200": { "description": "OK" } } } },
+    "/api/projects/{id}": { "get": { "summary": "Một dự án: cây việc, CPM, mốc, rủi ro, quyết định, điều lệ", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "responses": { "200": { "description": "OK" } } } },
+    "/api/recurrence": { "get": { "summary": "Sổ quy tắc lặp: kỳ đã sinh, tỷ lệ đúng kỳ, kỳ tới", "responses": { "200": { "description": "OK" } } } },
+    "/api/dieu-hanh": { "get": { "summary": "Điều hành: nút thắt chờ tôi · nhắc hôm nay · sẽ vỡ nếu bỏ mặc · Monte Carlo", "responses": { "200": { "description": "OK" } } } },
+    "/api/reports/period": { "get": { "summary": "Giao ban: số liệu kỳ + theo đơn vị/khối + kết luận điều hành", "parameters": [{ "name": "loai", "in": "query", "schema": { "type": "string", "enum": ["TUAN", "THANG", "QUY"] } }, { "name": "lech", "in": "query", "schema": { "type": "integer" } }], "responses": { "200": { "description": "OK" } } } },
+    "/api/scores/period": { "get": { "summary": "Điểm hoàn thành ba tầng Khối/Đơn vị/Cá nhân", "parameters": [{ "name": "loai", "in": "query", "schema": { "type": "string", "enum": ["THANG", "QUY"] } }, { "name": "lech", "in": "query", "schema": { "type": "integer" } }], "responses": { "200": { "description": "OK" } } } },
+    "/api/done": { "get": { "summary": "Kho việc đã nghiệm thu trong tầm nhìn", "responses": { "200": { "description": "OK" } } } },
+    "/api/notifications": { "get": { "summary": "Thông báo của tôi", "responses": { "200": { "description": "OK" } } } },
+    "/api/notifications/read-all": { "post": { "summary": "Đánh dấu đã đọc toàn bộ", "responses": { "200": { "description": "OK" } } } },
+    "/api/files/{id}": { "get": { "summary": "Tải tệp (kiểm xemDuoc của việc chứa tệp trước khi mở luồng)", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string", "format": "uuid" } }], "responses": { "200": { "description": "Nội dung tệp" }, "403": { "description": "Không có quyền" } } } },
+    "/api/assistant/ask": { "post": { "summary": "Hỏi trợ lý (gói dựng tại máy chủ theo hạng ∩ quyền; không có khoá API thì trả lời tại chỗ)", "requestBody": { "content": { "application/json": { "schema": { "type": "object", "properties": { "nhiemVu": { "type": "string", "enum": ["TONG_HOP", "PHAN_TICH", "SO_SANH", "DANH_GIA", "TU_VAN", "HUONG_DAN"] }, "cauHoi": { "type": "string" }, "moHinh": { "type": "string" } } } } } }, "responses": { "200": { "description": "{traLoi}" } } } },
+    "/api/assistant/history": { "get": { "summary": "50 lượt hỏi gần nhất của tôi", "responses": { "200": { "description": "OK" } } } },
+    "/api/glossary": { "get": { "summary": "Bảng thuật ngữ", "responses": { "200": { "description": "OK" } } } },
+    "/api/params": { "get": { "summary": "Tham số hệ thống (cần quyền sua_tham_so)", "responses": { "200": { "description": "OK" } } } },
+    "/api/admin/audit": { "get": { "summary": "Nhật ký hệ thống (cần quyền xem_nhat_ky)", "parameters": [{ "name": "limit", "in": "query", "schema": { "type": "integer" } }], "responses": { "200": { "description": "OK" } } } },
+    "/api/events": { "get": { "summary": "SSE thời gian thực: {kind:'changed', keys:[…]} sau mỗi thao tác ghi", "responses": { "200": { "description": "text/event-stream" } } } }
+  }
+}

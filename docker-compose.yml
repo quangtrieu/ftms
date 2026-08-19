@@ -1,0 +1,35 @@
+# FTMS — chạy dev/nội bộ: db + api (giao diện phục vụ cùng origin từ api)
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: forever
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-forever}
+      POSTGRES_DB: forever
+    volumes: [ "pgdata:/var/lib/postgresql/data" ]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U forever"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  api:
+    build: { context: ., dockerfile: apps/api/Dockerfile }
+    environment:
+      DATABASE_URL: postgres://forever:${DB_PASSWORD:-forever}@db:5432/forever
+      JWT_SECRET: ${JWT_SECRET:-doi-toi-trong-env}
+      INITIAL_PASSWORD: ${INITIAL_PASSWORD:-}
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      SMTP_URL: ${SMTP_URL:-}
+      SYSTEM_TODAY: ${SYSTEM_TODAY:-}
+      ALLOW_DEV_HEADER: ${ALLOW_DEV_HEADER:-0}
+      COOKIE_SECURE: ${COOKIE_SECURE:-0}
+      UPLOAD_DIR: /data/uploads
+    volumes: [ "uploads:/data/uploads" ]
+    depends_on:
+      db: { condition: service_healthy }
+    ports: [ "127.0.0.1:4000:4000" ]
+
+volumes:
+  pgdata:
+  uploads:

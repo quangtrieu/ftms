@@ -1,0 +1,6 @@
+{$SITE_ADDRESS} {
+	encode zstd gzip
+	reverse_proxy api:4000 {
+		flush_interval -1
+	}
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ftms",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "api": "cd apps/api && bun src/main.mjs",
+    "test:golden": "cd apps/api && bun test/golden.test.mjs",
+    "test:sweep": "cd apps/api && bun test/ui-sweep.mjs",
+    "test:flows": "cd apps/api && bun test/flows.mjs",
+    "test:web": "cd apps/api && bun test/web-e2e.mjs",
+    "kernel:build": "cd tools && node make-kernel.mjs && cp kernel.js ../apps/api/src/domain/kernel/kernel.js",
+    "oracle:build": "cd tools && node gen-du-lieu.mjs && node gen-oracle.mjs",
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "test": "turbo run test"
+  },
+  "devDependencies": {
+    "turbo": "^2.3.0"
+  }
+}

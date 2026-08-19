@@ -1,0 +1,6835 @@
+{
+ "__sinh": "từ prototype-forever.html",
+ "__ngayHeThong": "04/09/2026",
+ "U": {
+  "F001": {
+   "id": "F001",
+   "ten": "Đoàn Việt Dũng",
+   "tat": "VD",
+   "cd": "CEO kiêm Trưởng phòng Marketing",
+   "dv": "HDQT",
+   "vt": "BGD"
+  },
+  "F003": {
+   "id": "F003",
+   "ten": "Ngô Quý Ước",
+   "tat": "QƯ",
+   "cd": "Tổng Giám đốc",
+   "dv": "CTY",
+   "vt": "BGD"
+  },
+  "F002": {
+   "id": "F002",
+   "ten": "Nguyễn Thị Linh",
+   "tat": "TL",
+   "cd": "PTGĐ kiêm Giám đốc Kinh doanh",
+   "dv": "CTY",
+   "vt": "BGD"
+  },
+  "F005": {
+   "id": "F005",
+   "ten": "Trịnh Thái Ly",
+   "tat": "TL",
+   "cd": "PTGĐ kiêm CFO",
+   "dv": "CTY",
+   "vt": "BGD"
+  },
+  "F004": {
+   "id": "F004",
+   "ten": "Ngô Minh Trang",
+   "tat": "MT",
+   "cd": "Kiểm soát tài chính",
+   "dv": "CTY",
+   "vt": "PP"
+  },
+  "F006": {
+   "id": "F006",
+   "ten": "Tống Thị Lan",
+   "tat": "TL",
+   "cd": "Trợ lý Giám đốc Kinh doanh",
+   "dv": "CTY",
+   "vt": "TT"
+  },
+  "F007": {
+   "id": "F007",
+   "ten": "Nguyễn Văn Thành",
+   "tat": "VT",
+   "cd": "Trợ lý Tổng Giám đốc",
+   "dv": "CTY",
+   "vt": "TT"
+  },
+  "F008": {
+   "id": "F008",
+   "ten": "Nguyễn Văn Nhu",
+   "tat": "VN",
+   "cd": "Trưởng kho",
+   "dv": "KHO",
+   "vt": "TP"
+  },
+  "F009": {
+   "id": "F009",
+   "ten": "Ngô Thành Bắc",
+   "tat": "TB",
+   "cd": "Kế toán kho",
+   "dv": "KHO",
+   "vt": "NV"
+  },
+  "F010": {
+   "id": "F010",
+   "ten": "Nguyễn Tiến Mão",
+   "tat": "TM",
+   "cd": "Tổ trưởng Tổ xe",
+   "dv": "KHO_XE",
+   "vt": "TT"
+  },
+  "F011": {
+   "id": "F011",
+   "ten": "Ngô Thị Thơm",
+   "tat": "TT",
+   "cd": "Nhân viên tổng hợp",
+   "dv": "KHO",
+   "vt": "NV"
+  },
+  "F012": {
+   "id": "F012",
+   "ten": "Ngô Thị Hiền",
+   "tat": "TH",
+   "cd": "Thủ kho Bán buôn và Online",
+   "dv": "KHO",
+   "vt": "NV"
+  },
+  "F013": {
+   "id": "F013",
+   "ten": "Nguyễn Văn Đức",
+   "tat": "VĐ",
+   "cd": "Nhân viên kho",
+   "dv": "KHO",
+   "vt": "NV"
+  },
+  "F014": {
+   "id": "F014",
+   "ten": "Nguyễn Văn Cương",
+   "tat": "VC",
+   "cd": "Nhân viên Tổ xe",
+   "dv": "KHO_XE",
+   "vt": "NV"
+  },
+  "F015": {
+   "id": "F015",
+   "ten": "Dương Thị Hồng Toán",
+   "tat": "HT",
+   "cd": "Thủ kho Bán buôn và Online",
+   "dv": "KHO",
+   "vt": "NV"
+  },
+  "F016": {
+   "id": "F016",
+   "ten": "Ngô Thị Thoa",
+   "tat": "TT",
+   "cd": "Nhân viên kho",
+   "dv": "KHO",
+   "vt": "NV"
+  },
+  "F017": {
+   "id": "F017",
+   "ten": "Nguyễn Thị Hiên",
+   "tat": "TH",
+   "cd": "Nhân viên kho",
+   "dv": "KHO",
+   "vt": "NV"
+  },
+  "F018": {
+   "id": "F018",
+   "ten": "Đặng Thị Hoa",
+   "tat": "TH",
+   "cd": "Trưởng phòng Admin Kinh doanh",
+   "dv": "ADKD",
+   "vt": "TP"
+  },
+  "F019": {
+   "id": "F019",
+   "ten": "Nguyễn Thị Hường",
+   "tat": "TH",
+   "cd": "Admin GT",
+   "dv": "ADKD_GT",
+   "vt": "NV"
+  },
+  "F020": {
+   "id": "F020",
+   "ten": "Hồ Thị Thủy",
+   "tat": "TT",
+   "cd": "Admin GT",
+   "dv": "ADKD_GT",
+   "vt": "NV"
+  },
+  "F021": {
+   "id": "F021",
+   "ten": "Nguyễn Thị Huyền",
+   "tat": "TH",
+   "cd": "Admin GT",
+   "dv": "ADKD_GT",
+   "vt": "NV"
+  },
+  "F022": {
+   "id": "F022",
+   "ten": "Hoàng Thị Minh Thảo",
+   "tat": "MT",
+   "cd": "Tổ trưởng Thương hiệu",
+   "dv": "MKT_BRAND",
+   "vt": "TT"
+  },
+  "F023": {
+   "id": "F023",
+   "ten": "Lê Thị Thanh Hà",
+   "tat": "TH",
+   "cd": "Brand Manager",
+   "dv": "MKT_BRAND",
+   "vt": "NV"
+  },
+  "F024": {
+   "id": "F024",
+   "ten": "Lê Thanh Long",
+   "tat": "TL",
+   "cd": "Tổ trưởng Hub Digital",
+   "dv": "MKT_HUB",
+   "vt": "TT"
+  },
+  "F025": {
+   "id": "F025",
+   "ten": "Nguyễn Đình Mạnh",
+   "tat": "ĐM",
+   "cd": "Chuyên viên Quay dựng Video",
+   "dv": "MKT_HUB",
+   "vt": "NV"
+  },
+  "F026": {
+   "id": "F026",
+   "ten": "Nguyễn Quốc Bằng",
+   "tat": "QB",
+   "cd": "Tổ trưởng Sự kiện",
+   "dv": "MKT_SK",
+   "vt": "TT"
+  },
+  "F028": {
+   "id": "F028",
+   "ten": "Đặng Thị Mỹ Duyên",
+   "tat": "MD",
+   "cd": "Chuyên viên Thiết kế và Media",
+   "dv": "MKT_HUB",
+   "vt": "NV"
+  },
+  "F029": {
+   "id": "F029",
+   "ten": "Trịnh Phương Nhi",
+   "tat": "PN",
+   "cd": "Chuyên viên Thiết kế và Media",
+   "dv": "MKT_HUB",
+   "vt": "NV"
+  },
+  "F030": {
+   "id": "F030",
+   "ten": "Nguyễn Thị Thủy Tiên",
+   "tat": "TT",
+   "cd": "Chuyên viên Content Marketing",
+   "dv": "MKT_HUB",
+   "vt": "NV"
+  },
+  "F031": {
+   "id": "F031",
+   "ten": "Nguyễn Hưng Nguyên",
+   "tat": "HN",
+   "cd": "Event Designer",
+   "dv": "MKT_SK",
+   "vt": "NV"
+  },
+  "F032": {
+   "id": "F032",
+   "ten": "Nguyễn Thị Minh Ngọc",
+   "tat": "MN",
+   "cd": "Event Planner",
+   "dv": "MKT_SK",
+   "vt": "NV"
+  },
+  "F033": {
+   "id": "F033",
+   "ten": "Nguyễn Tiến Đạt",
+   "tat": "TĐ",
+   "cd": "Chuyên viên Vận hành Sàn TMĐT",
+   "dv": "MKT_HUB",
+   "vt": "NV"
+  },
+  "F034": {
+   "id": "F034",
+   "ten": "Hoàng Trung Hiếu",
+   "tat": "TH",
+   "cd": "Chuyên viên Pháp chế Thương mại",
+   "dv": "PC",
+   "vt": "NV"
+  },
+  "F035": {
+   "id": "F035",
+   "ten": "Nguyễn Khánh Linh",
+   "tat": "KL",
+   "cd": "Chuyên viên Pháp chế Doanh nghiệp",
+   "dv": "PC",
+   "vt": "NV"
+  },
+  "F036": {
+   "id": "F036",
+   "ten": "Doãn Thị Sáu",
+   "tat": "TS",
+   "cd": "Kế toán trưởng",
+   "dv": "TCKT_KT",
+   "vt": "TT"
+  },
+  "F037": {
+   "id": "F037",
+   "ten": "Phạm Thị Bích Ngọc",
+   "tat": "BN",
+   "cd": "Kế toán thuế",
+   "dv": "TCKT_KT",
+   "vt": "NV"
+  },
+  "F038": {
+   "id": "F038",
+   "ten": "Lê Quang Anh",
+   "tat": "QA",
+   "cd": "Kế toán công nợ phải trả",
+   "dv": "TCKT_KT",
+   "vt": "NV"
+  },
+  "F039": {
+   "id": "F039",
+   "ten": "Đỗ Việt Cường",
+   "tat": "VC",
+   "cd": "Nhân viên lái xe",
+   "dv": "TH_HC",
+   "vt": "NV"
+  },
+  "F040": {
+   "id": "F040",
+   "ten": "Nguyễn Thùy Linh",
+   "tat": "TL",
+   "cd": "Chuyên viên Tuyển dụng và Đào tạo",
+   "dv": "TH_NS",
+   "vt": "NV"
+  },
+  "F041": {
+   "id": "F041",
+   "ten": "Nguyễn Thị Ánh Sáng",
+   "tat": "ÁS",
+   "cd": "Admin Online",
+   "dv": "KDOL",
+   "vt": "NV"
+  },
+  "F042": {
+   "id": "F042",
+   "ten": "Mai Minh Trang",
+   "tat": "MT",
+   "cd": "Admin Online",
+   "dv": "KDOL",
+   "vt": "NV"
+  },
+  "F043": {
+   "id": "F043",
+   "ten": "Trần Đức Minh Giang",
+   "tat": "MG",
+   "cd": "Chuyên viên Mua hàng quốc tế",
+   "dv": "XNK",
+   "vt": "NV"
+  },
+  "F044": {
+   "id": "F044",
+   "ten": "Nguyễn Thị Liên",
+   "tat": "TL",
+   "cd": "Chuyên viên Mua hàng quốc tế",
+   "dv": "XNK",
+   "vt": "NV"
+  },
+  "F045": {
+   "id": "F045",
+   "ten": "Nguyễn Thu Hiền",
+   "tat": "TH",
+   "cd": "Chuyên viên Mua hàng nội địa",
+   "dv": "XNK",
+   "vt": "NV"
+  }
+ },
+ "CAP_TAY": {
+  "F001": 1,
+  "F003": 1,
+  "F002": 1,
+  "F005": 1,
+  "F004": 2,
+  "F006": 3,
+  "F007": 3
+ },
+ "DV": {
+  "HDQT": {
+   "ten": "Hội đồng quản trị",
+   "cha": null,
+   "truong": "F001"
+  },
+  "CTY": {
+   "ten": "Công ty",
+   "cha": "HDQT",
+   "truong": "F003"
+  },
+  "MKT": {
+   "ten": "Phòng Marketing",
+   "cha": "CTY",
+   "truong": "F001"
+  },
+  "ADKD": {
+   "ten": "Phòng Admin Kinh doanh",
+   "cha": "CTY",
+   "truong": "F018"
+  },
+  "KDOL": {
+   "ten": "Tổ Kinh doanh Online",
+   "cha": "CTY",
+   "truong": "F001",
+   "khuyet": true
+  },
+  "TH": {
+   "ten": "Phòng Tổng hợp",
+   "cha": "CTY",
+   "truong": "F003",
+   "khuyet": true
+  },
+  "PC": {
+   "ten": "Phòng Pháp chế",
+   "cha": "CTY",
+   "truong": "F003",
+   "khuyet": true
+  },
+  "KHO": {
+   "ten": "Bộ phận Kho hàng",
+   "cha": "CTY",
+   "truong": "F008"
+  },
+  "TCKT": {
+   "ten": "Phòng Tài chính – Kế toán",
+   "cha": "CTY",
+   "truong": "F005"
+  },
+  "XNK": {
+   "ten": "Tổ Xuất nhập khẩu",
+   "cha": "CTY",
+   "truong": "F005",
+   "khuyet": true
+  },
+  "MKT_BRAND": {
+   "ten": "Tổ Thương hiệu",
+   "cha": "MKT",
+   "truong": "F022"
+  },
+  "MKT_HUB": {
+   "ten": "Tổ Hub Digital",
+   "cha": "MKT",
+   "truong": "F024"
+  },
+  "MKT_SK": {
+   "ten": "Tổ Sự kiện",
+   "cha": "MKT",
+   "truong": "F026"
+  },
+  "ADKD_GT": {
+   "ten": "Tổ GT",
+   "cha": "ADKD",
+   "truong": "F018"
+  },
+  "TH_NS": {
+   "ten": "Tổ Nhân sự",
+   "cha": "TH",
+   "truong": null,
+   "khuyet": true
+  },
+  "TH_HC": {
+   "ten": "Tổ Hành chính",
+   "cha": "TH",
+   "truong": null,
+   "khuyet": true
+  },
+  "KHO_XE": {
+   "ten": "Tổ xe",
+   "cha": "KHO",
+   "truong": "F010"
+  },
+  "TCKT_KT": {
+   "ten": "Tổ Kế toán",
+   "cha": "TCKT",
+   "truong": "F036"
+  }
+ },
+ "KHOI": [
+  {
+   "ma": "K_DH",
+   "bod": "F003",
+   "ten": "Khối Điều hành chung",
+   "dv": [
+    "TH",
+    "PC",
+    "TH_NS",
+    "TH_HC"
+   ],
+   "nguoi": [
+    "F007"
+   ]
+  },
+  {
+   "ma": "K_KD",
+   "bod": "F002",
+   "ten": "Khối Kinh doanh",
+   "dv": [
+    "ADKD",
+    "ADKD_GT",
+    "KDOL"
+   ],
+   "nguoi": [
+    "F006"
+   ]
+  },
+  {
+   "ma": "K_TC",
+   "bod": "F005",
+   "ten": "Khối Tài chính – Vận hành",
+   "dv": [
+    "TCKT",
+    "TCKT_KT",
+    "XNK",
+    "KHO",
+    "KHO_XE"
+   ],
+   "nguoi": [
+    "F004"
+   ]
+  },
+  {
+   "ma": "K_TT",
+   "bod": "F001",
+   "ten": "Khối Thị trường",
+   "dv": [
+    "MKT",
+    "MKT_BRAND",
+    "MKT_HUB",
+    "MKT_SK"
+   ],
+   "nguoi": []
+  }
+ ],
+ "VI_TRI": [
+  {
+   "ma": "VT01",
+   "ten": "Kế toán trưởng",
+   "dv": "TCKT_KT",
+   "cap": 3,
+   "thay": "F005"
+  },
+  {
+   "ma": "VT02",
+   "ten": "Kế toán thuế",
+   "dv": "TCKT_KT",
+   "cap": 4,
+   "thay": "F036"
+  },
+  {
+   "ma": "VT03",
+   "ten": "Kế toán công nợ phải trả",
+   "dv": "TCKT_KT",
+   "cap": 4,
+   "thay": "F036"
+  },
+  {
+   "ma": "VT04",
+   "ten": "Trưởng kho",
+   "dv": "KHO",
+   "cap": 2,
+   "thay": "F003"
+  },
+  {
+   "ma": "VT05",
+   "ten": "Thủ kho",
+   "dv": "KHO",
+   "cap": 4,
+   "thay": "F008"
+  },
+  {
+   "ma": "VT06",
+   "ten": "Tổ trưởng Tổ xe",
+   "dv": "KHO_XE",
+   "cap": 3,
+   "thay": "F008"
+  },
+  {
+   "ma": "VT07",
+   "ten": "Trưởng phòng Admin Kinh doanh",
+   "dv": "ADKD",
+   "cap": 2,
+   "thay": "F002"
+  },
+  {
+   "ma": "VT08",
+   "ten": "Admin GT",
+   "dv": "ADKD_GT",
+   "cap": 4,
+   "thay": "F018"
+  },
+  {
+   "ma": "VT09",
+   "ten": "Tổ trưởng Thương hiệu",
+   "dv": "MKT_BRAND",
+   "cap": 3,
+   "thay": "F001"
+  },
+  {
+   "ma": "VT10",
+   "ten": "Tổ trưởng Hub Digital",
+   "dv": "MKT_HUB",
+   "cap": 3,
+   "thay": "F001"
+  },
+  {
+   "ma": "VT11",
+   "ten": "Tổ trưởng Sự kiện",
+   "dv": "MKT_SK",
+   "cap": 3,
+   "thay": "F001"
+  },
+  {
+   "ma": "VT12",
+   "ten": "Chuyên viên Pháp chế",
+   "dv": "PC",
+   "cap": 4,
+   "thay": "F003"
+  },
+  {
+   "ma": "VT13",
+   "ten": "Chuyên viên Mua hàng quốc tế",
+   "dv": "XNK",
+   "cap": 4,
+   "thay": "F005"
+  },
+  {
+   "ma": "VT14",
+   "ten": "Admin Online",
+   "dv": "KDOL",
+   "cap": 4,
+   "thay": "F001"
+  },
+  {
+   "ma": "VT15",
+   "ten": "Chuyên viên Tuyển dụng và Đào tạo",
+   "dv": "TH_NS",
+   "cap": 4,
+   "thay": "F003"
+  }
+ ],
+ "T": [
+  {
+   "id": "CV-130",
+   "ttl": "MỐC: Chốt danh sách nhãn và ngân sách quý 4",
+   "tt": "DANG_LAM",
+   "cha": "CV-118",
+   "ah": 5,
+   "kc": 4,
+   "truoc": [],
+   "loai": "DU_AN",
+   "giao": "F001",
+   "lam": "F022",
+   "bd": "25/08/2026",
+   "han": "10/09/2026",
+   "dk": 3,
+   "han_goc": "10/09/2026",
+   "doi": 0,
+   "moc": true,
+   "phoihop": [],
+   "sp": "Danh sách nhãn và ngân sách đã duyệt",
+   "tc": [
+    {
+     "t": "Chốt đủ 6 nhãn chủ lực",
+     "d": true
+    },
+    {
+     "t": "Ngân sách trong hạn mức",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "giao việc này",
+     "t": "25/08 09:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-131",
+   "ttl": "Xây thông điệp và bộ nhận diện cho từng nhãn",
+   "tt": "MOI",
+   "cha": "CV-118",
+   "ah": 4,
+   "kc": 3,
+   "truoc": [
+    "CV-130"
+   ],
+   "loai": "DU_AN",
+   "giao": "F022",
+   "lam": "F023",
+   "bd": "11/09/2026",
+   "han": "30/09/2026",
+   "dk": 5,
+   "han_goc": "30/09/2026",
+   "doi": 0,
+   "phoihop": [],
+   "sp": "Bộ thông điệp và nhận diện đã duyệt",
+   "tc": [
+    {
+     "t": "Mỗi nhãn một thông điệp chính",
+     "d": false
+    },
+    {
+     "t": "Brand Manager duyệt",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Hoàng Thị Minh Thảo",
+     "k": "giao việc này",
+     "t": "11/09 09:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-132",
+   "ttl": "Lập kế hoạch truyền thông và phân bổ ngân sách kênh",
+   "tt": "MOI",
+   "cha": "CV-118",
+   "ah": 4,
+   "kc": 4,
+   "truoc": [
+    "CV-130"
+   ],
+   "loai": "DU_AN",
+   "giao": "F022",
+   "lam": "F024",
+   "bd": "11/09/2026",
+   "han": "25/09/2026",
+   "dk": 5,
+   "han_goc": "25/09/2026",
+   "doi": 0,
+   "phoihop": [],
+   "sp": "Kế hoạch kênh và ngân sách đã duyệt",
+   "tc": [
+    {
+     "t": "Phủ đủ ba kênh chính",
+     "d": false
+    },
+    {
+     "t": "Chi phí trên đơn nằm trong ngưỡng",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Hoàng Thị Minh Thảo",
+     "k": "giao việc này",
+     "t": "11/09 09:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-133",
+   "ttl": "MỐC: Trình Ban Giám đốc duyệt kế hoạch quý 4",
+   "tt": "MOI",
+   "cha": "CV-118",
+   "ah": 5,
+   "kc": 4,
+   "truoc": [
+    "CV-131",
+    "CV-132"
+   ],
+   "loai": "DU_AN",
+   "giao": "F001",
+   "lam": "F022",
+   "bd": "01/10/2026",
+   "han": "08/10/2026",
+   "dk": 2,
+   "han_goc": "08/10/2026",
+   "doi": 0,
+   "moc": true,
+   "phoihop": [],
+   "sp": "Biên bản duyệt kế hoạch quý 4",
+   "tc": [
+    {
+     "t": "Ban Giám đốc thông qua",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "giao việc này",
+     "t": "01/10 09:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-140",
+   "ttl": "Chốt địa điểm và ký hợp đồng nhà thầu sự kiện",
+   "tt": "DANG_LAM",
+   "cha": "CV-121",
+   "ah": 5,
+   "kc": 4,
+   "truoc": [],
+   "loai": "DU_AN",
+   "giao": "F001",
+   "lam": "F026",
+   "bd": "01/09/2026",
+   "han": "20/09/2026",
+   "dk": 5,
+   "han_goc": "20/09/2026",
+   "doi": 0,
+   "tien": 280000000,
+   "tienLoai": "CHI",
+   "phoihop": [],
+   "sp": "Hợp đồng địa điểm và nhà thầu đã ký",
+   "tc": [
+    {
+     "t": "So sánh tối thiểu 3 địa điểm",
+     "d": true
+    },
+    {
+     "t": "Hợp đồng có điều khoản phạt",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "giao việc này",
+     "t": "01/09 09:00",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Bản hợp đồng đã ký đủ chữ ký và đóng dấu",
+   "bc": true
+  },
+  {
+   "id": "CV-141",
+   "ttl": "Thiết kế và sản xuất vật phẩm sự kiện",
+   "tt": "MOI",
+   "cha": "CV-121",
+   "ah": 4,
+   "kc": 4,
+   "truoc": [
+    "CV-140"
+   ],
+   "loai": "DU_AN",
+   "giao": "F026",
+   "lam": "F031",
+   "bd": "21/09/2026",
+   "han": "10/10/2026",
+   "dk": 5,
+   "han_goc": "10/10/2026",
+   "doi": 0,
+   "phoihop": [],
+   "sp": "Vật phẩm đã nghiệm thu tại kho",
+   "tc": [
+    {
+     "t": "Duyệt maquette",
+     "d": false
+    },
+    {
+     "t": "Nghiệm thu số lượng và chất lượng",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Nguyễn Quốc Bằng",
+     "k": "giao việc này",
+     "t": "21/09 09:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-142",
+   "ttl": "Mời và xác nhận khách tham dự",
+   "tt": "MOI",
+   "cha": "CV-121",
+   "ah": 4,
+   "kc": 3,
+   "truoc": [],
+   "loai": "DU_AN",
+   "giao": "F026",
+   "lam": "F032",
+   "bd": "15/09/2026",
+   "han": "15/10/2026",
+   "dk": 3,
+   "han_goc": "15/10/2026",
+   "doi": 0,
+   "phoihop": [],
+   "sp": "Danh sách khách đã xác nhận",
+   "tc": [
+    {
+     "t": "Gửi thư mời đủ danh sách",
+     "d": false
+    },
+    {
+     "t": "Xác nhận tối thiểu 80%",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Nguyễn Quốc Bằng",
+     "k": "giao việc này",
+     "t": "15/09 09:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-143",
+   "ttl": "MỐC: Tổ chức sự kiện ngày 20/10 và nghiệm thu",
+   "tt": "MOI",
+   "cha": "CV-121",
+   "ah": 5,
+   "kc": 5,
+   "truoc": [
+    "CV-141",
+    "CV-142"
+   ],
+   "loai": "DU_AN",
+   "giao": "F001",
+   "lam": "F026",
+   "bd": "19/10/2026",
+   "han": "20/10/2026",
+   "dk": 5,
+   "han_goc": "20/10/2026",
+   "doi": 0,
+   "moc": true,
+   "phoihop": [],
+   "sp": "Biên bản nghiệm thu sự kiện",
+   "tc": [
+    {
+     "t": "Sự kiện diễn ra đúng kịch bản",
+     "d": false
+    },
+    {
+     "t": "Chi phí không vượt ngân sách",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "giao việc này",
+     "t": "19/10 09:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-110",
+   "ttl": "Kiểm kê tồn kho định kỳ tháng 8 tại kho Bắc Ninh",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 4,
+   "kc": 4,
+   "loai": "CONG_VIEC",
+   "giao": "F008",
+   "lam": "F012",
+   "bd": "28/08/2026",
+   "han": "06/09/2026",
+   "dk": 5,
+   "han_goc": "06/09/2026",
+   "doi": 0,
+   "bc": true,
+   "sk": "RR",
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "sp": "Biên bản kiểm kê có đủ chữ ký thủ kho và kế toán",
+   "tc": [
+    {
+     "t": "Đếm đủ 100% mã hàng",
+     "d": true
+    },
+    {
+     "t": "Lệch quá 0,5% phải có giải trình",
+     "d": false
+    },
+    {
+     "t": "Kế toán kho đối chiếu xong",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Nguyễn Văn Nhu",
+     "k": "giao việc này",
+     "t": "28/08 08:30",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Biên bản kiểm kê có đủ chữ ký thủ kho và kế toán",
+   "ttRieng": "KHO_SOLIEU"
+  },
+  {
+   "id": "CV-111",
+   "ttl": "Rà soát hàng cận date và xử lý theo FIFO tuần 35",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 4,
+   "kc": 5,
+   "loai": "CHU_KY",
+   "giao": "F008",
+   "lam": "F015",
+   "bd": "31/08/2026",
+   "han": "05/09/2026",
+   "dk": 3,
+   "han_goc": "05/09/2026",
+   "doi": 0,
+   "lap": "TUAN",
+   "soKy": 22,
+   "kyDung": 20,
+   "sk": "BT",
+   "phoihop": [],
+   "sp": "Danh sách hàng cận date kèm phương án xử lý",
+   "tc": [
+    {
+     "t": "Lọc đủ hàng còn dưới 90 ngày",
+     "d": true
+    },
+    {
+     "t": "Có phương án cho từng lô",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Nguyễn Văn Nhu",
+     "k": "giao việc này",
+     "t": "31/08 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-112",
+   "ttl": "Lập lịch xe giao hàng tuần 36 và theo dõi an toàn",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 3,
+   "kc": 4,
+   "loai": "CHU_KY",
+   "giao": "F008",
+   "lam": "F010",
+   "bd": "01/09/2026",
+   "han": "07/09/2026",
+   "dk": 3,
+   "han_goc": "07/09/2026",
+   "doi": 0,
+   "lap": "TUAN",
+   "soKy": 30,
+   "kyDung": 29,
+   "phoihop": [],
+   "sp": "Lịch xe tuần và báo cáo sự cố giao thông",
+   "tc": [
+    {
+     "t": "Phủ hết đơn đã chốt",
+     "d": true
+    },
+    {
+     "t": "Không phát sinh sự cố",
+     "d": true
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Nguyễn Văn Nhu",
+     "k": "giao việc này",
+     "t": "01/09 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-113",
+   "ttl": "Chăm sóc và tái ký hợp đồng nhóm đại lý hết hạn quý 3",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 4,
+   "kc": 3,
+   "loai": "CONG_VIEC",
+   "giao": "F018",
+   "lam": "F019",
+   "bd": "20/08/2026",
+   "han": "30/09/2026",
+   "dk": 5,
+   "han_goc": "30/09/2026",
+   "doi": 0,
+   "tien": 0,
+   "sk": "BT",
+   "phoihop": [],
+   "sp": "Danh sách đại lý đã tái ký và biên bản làm việc",
+   "tc": [
+    {
+     "t": "Liên hệ đủ 100% đại lý hết hạn",
+     "d": true
+    },
+    {
+     "t": "Tỷ lệ tái ký từ 80%",
+     "d": false
+    },
+    {
+     "t": "Hợp đồng đã ký về đủ",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đặng Thị Hoa",
+     "k": "giao việc này",
+     "t": "20/08 08:30",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Bản hợp đồng đã ký đủ chữ ký và đóng dấu",
+   "bc": true
+  },
+  {
+   "id": "CV-114",
+   "ttl": "Cập nhật hồ sơ khách hàng và phân nhóm quý 3",
+   "tt": "MOI",
+   "cha": null,
+   "ah": 3,
+   "kc": 3,
+   "loai": "CONG_VIEC",
+   "giao": "F002",
+   "lam": "F018",
+   "bd": "01/09/2026",
+   "han": "25/09/2026",
+   "dk": 5,
+   "han_goc": "25/09/2026",
+   "doi": 0,
+   "phoihop": [],
+   "sp": "Bảng phân nhóm khách hàng đã cập nhật",
+   "tc": [
+    {
+     "t": "Làm sạch dữ liệu trùng",
+     "d": false
+    },
+    {
+     "t": "Phân đủ ba nhóm",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Nguyễn Thị Linh",
+     "k": "giao việc này",
+     "t": "01/09 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-115",
+   "ttl": "Xử lý đơn hàng và báo giá kênh GT tuần 36",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 3,
+   "kc": 5,
+   "loai": "CHU_KY",
+   "giao": "F018",
+   "lam": "F020",
+   "bd": "31/08/2026",
+   "han": "06/09/2026",
+   "dk": 2,
+   "han_goc": "06/09/2026",
+   "doi": 0,
+   "lap": "TUAN",
+   "soKy": 34,
+   "kyDung": 31,
+   "phoihop": [],
+   "sp": "Bảng tổng hợp đơn và báo giá đã gửi",
+   "tc": [
+    {
+     "t": "Trả báo giá trong 4 giờ",
+     "d": true
+    },
+    {
+     "t": "Không sai giá",
+     "d": true
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đặng Thị Hoa",
+     "k": "giao việc này",
+     "t": "31/08 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-116",
+   "ttl": "Vận hành đơn hàng phiên livestream tối thứ Năm 03/9",
+   "tt": "CHO_DUYET",
+   "cha": null,
+   "ah": 4,
+   "kc": 5,
+   "loai": "DOT_XUAT",
+   "giao": "F001",
+   "lam": "F041",
+   "bd": "03/09/2026",
+   "han": "05/09/2026",
+   "dk": 3,
+   "han_goc": "05/09/2026",
+   "doi": 0,
+   "nguon": "Khách hàng",
+   "phatSinh": "03/09/2026",
+   "nhanSau": 1,
+   "phoihop": [],
+   "sp": "Báo cáo đơn hàng phiên live và tỷ lệ chốt",
+   "tc": [
+    {
+     "t": "Chốt đơn trong phiên",
+     "d": true
+    },
+    {
+     "t": "Đẩy đơn sang kho trong 12 giờ",
+     "d": true
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "giao việc này",
+     "t": "03/09 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-117",
+   "ttl": "Báo cáo hiệu quả kênh Online và Livestream tháng 8",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 3,
+   "kc": 3,
+   "loai": "CHU_KY",
+   "giao": "F001",
+   "lam": "F042",
+   "bd": "01/09/2026",
+   "han": "10/09/2026",
+   "dk": 3,
+   "han_goc": "10/09/2026",
+   "doi": 0,
+   "lap": "THANG",
+   "soKy": 14,
+   "kyDung": 12,
+   "phoihop": [],
+   "sp": "Báo cáo hiệu quả kênh tháng 8",
+   "tc": [
+    {
+     "t": "Đủ số liệu ba sàn",
+     "d": true
+    },
+    {
+     "t": "So sánh với tháng 7",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "giao việc này",
+     "t": "01/09 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-118",
+   "ttl": "Lập kế hoạch nhãn và chiến dịch quý 4",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 5,
+   "kc": 3,
+   "loai": "DU_AN",
+   "giao": "F001",
+   "lam": "F022",
+   "bd": "25/08/2026",
+   "han": "20/09/2026",
+   "dk": 8,
+   "han_goc": "20/09/2026",
+   "doi": 0,
+   "tien": 450000000,
+   "tienLoai": "CHI",
+   "mat": "HAN_CHE",
+   "phoihop": [],
+   "sp": "Kế hoạch nhãn quý 4 đã được duyệt",
+   "dieule": {
+    "muctieu": "Kế hoạch nhãn quý 4 được Ban Giám đốc duyệt trước 08/10, có mục tiêu đo được cho từng nhãn",
+    "phamvi": "Sáu nhãn chủ lực, ba kênh truyền thông chính",
+    "ngoaipham": "Không bao gồm nhãn mới ra mắt sau quý 4, không bao gồm kênh xuất khẩu",
+    "nganSach": 450000000,
+    "batdau": "25/08/2026",
+    "ketthuc": "08/10/2026"
+   },
+   "tc": [
+    {
+     "t": "Có mục tiêu đo được cho từng nhãn",
+     "d": true
+    },
+    {
+     "t": "Ngân sách nằm trong hạn mức",
+     "d": false
+    },
+    {
+     "t": "Ban Giám đốc thông qua",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "giao việc này",
+     "t": "25/08 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-119",
+   "ttl": "Triển khai chiến dịch quảng cáo số tháng 9",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 4,
+   "kc": 4,
+   "loai": "CHU_KY",
+   "giao": "F001",
+   "lam": "F024",
+   "bd": "01/09/2026",
+   "han": "30/09/2026",
+   "dk": 5,
+   "han_goc": "30/09/2026",
+   "doi": 0,
+   "lap": "THANG",
+   "soKy": 16,
+   "kyDung": 13,
+   "tien": 120000000,
+   "tienLoai": "CHI",
+   "phoihop": [],
+   "sp": "Báo cáo hiệu quả chiến dịch tháng 9",
+   "tc": [
+    {
+     "t": "Chi phí trên đơn nằm trong ngưỡng",
+     "d": false
+    },
+    {
+     "t": "Đủ số liệu ba kênh",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "giao việc này",
+     "t": "01/09 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-120",
+   "ttl": "Sản xuất bộ ảnh và POSM cho SKU mới ra mắt tháng 10",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 4,
+   "kc": 4,
+   "loai": "CONG_VIEC",
+   "giao": "F024",
+   "lam": "F028",
+   "bd": "24/08/2026",
+   "han": "18/09/2026",
+   "dk": 5,
+   "han_goc": "18/09/2026",
+   "doi": 0,
+   "sk": "RR",
+   "phoihop": [],
+   "sp": "Bộ ảnh và file in POSM đã duyệt",
+   "tc": [
+    {
+     "t": "Đủ 12 ảnh theo brief",
+     "d": true
+    },
+    {
+     "t": "Brand Manager duyệt",
+     "d": false
+    },
+    {
+     "t": "File in đúng chuẩn nhà in",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Lê Thanh Long",
+     "k": "giao việc này",
+     "t": "24/08 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-121",
+   "ttl": "Tổ chức sự kiện ra mắt sản phẩm ngày 20/10 tại Hà Nội",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 5,
+   "kc": 3,
+   "loai": "DU_AN",
+   "giao": "F001",
+   "lam": "F026",
+   "bd": "01/09/2026",
+   "han": "20/10/2026",
+   "dk": 8,
+   "han_goc": "20/10/2026",
+   "doi": 0,
+   "tien": 680000000,
+   "tienLoai": "CHI",
+   "phoihop": [],
+   "sp": "Sự kiện đã tổ chức và báo cáo tổng kết",
+   "dieule": {
+    "muctieu": "Sự kiện ra mắt ngày 20/10 diễn ra đúng kịch bản, chi phí không vượt ngân sách",
+    "phamvi": "Sự kiện tại Hà Nội, khách mời đại lý và báo chí",
+    "ngoaipham": "Không bao gồm sự kiện vệ tinh tại các tỉnh, không bao gồm quảng cáo sau sự kiện",
+    "nganSach": 680000000,
+    "batdau": "01/09/2026",
+    "ketthuc": "20/10/2026"
+   },
+   "tc": [
+    {
+     "t": "Chốt địa điểm và nhà thầu",
+     "d": true
+    },
+    {
+     "t": "Đủ khách mời theo danh sách",
+     "d": false
+    },
+    {
+     "t": "Chi phí không vượt ngân sách",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "giao việc này",
+     "t": "01/09 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-122",
+   "ttl": "Rà soát và đàm phán hợp đồng nhà cung cấp nguyên liệu mới",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 5,
+   "kc": 4,
+   "loai": "CONG_VIEC",
+   "giao": "F003",
+   "lam": "F034",
+   "bd": "20/08/2026",
+   "han": "15/09/2026",
+   "dk": 5,
+   "han_goc": "15/09/2026",
+   "doi": 0,
+   "mat": "HAN_CHE",
+   "sk": "RR",
+   "phoihop": [],
+   "sp": "Hợp đồng đã rà soát kèm ý kiến pháp lý",
+   "tc": [
+    {
+     "t": "Nêu đủ rủi ro pháp lý",
+     "d": true
+    },
+    {
+     "t": "Chốt điều khoản phạt vi phạm",
+     "d": false
+    },
+    {
+     "t": "Hai bên ký",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Ngô Quý Ước",
+     "k": "giao việc này",
+     "t": "20/08 08:30",
+     "s": 1
+    }
+   ],
+   "ttRieng": "PC_DOITAC"
+  },
+  {
+   "id": "CV-123",
+   "ttl": "Rà soát tuân thủ hợp đồng lao động và nội quy lao động",
+   "tt": "MOI",
+   "cha": null,
+   "ah": 4,
+   "kc": 3,
+   "loai": "CONG_VIEC",
+   "giao": "F003",
+   "lam": "F035",
+   "bd": "01/09/2026",
+   "han": "30/09/2026",
+   "dk": 5,
+   "han_goc": "30/09/2026",
+   "doi": 0,
+   "mat": "HAN_CHE",
+   "phoihop": [],
+   "sp": "Báo cáo rà soát tuân thủ và kiến nghị sửa",
+   "tc": [
+    {
+     "t": "Đối chiếu đủ Bộ luật Lao động hiện hành",
+     "d": false
+    },
+    {
+     "t": "Liệt kê điểm chưa tuân thủ",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Ngô Quý Ước",
+     "k": "giao việc này",
+     "t": "01/09 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-124",
+   "ttl": "Tuyển 3 nhân viên kho cho mùa cao điểm quý 4",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 4,
+   "kc": 4,
+   "loai": "CONG_VIEC",
+   "giao": "F003",
+   "lam": "F040",
+   "bd": "25/08/2026",
+   "han": "30/09/2026",
+   "dk": 5,
+   "han_goc": "30/09/2026",
+   "doi": 0,
+   "phoihop": [],
+   "sp": "Ba nhân viên đã nhận việc",
+   "tc": [
+    {
+     "t": "Đăng tin và sàng lọc hồ sơ",
+     "d": true
+    },
+    {
+     "t": "Phỏng vấn đủ vòng",
+     "d": false
+    },
+    {
+     "t": "Ký hợp đồng thử việc",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Ngô Quý Ước",
+     "k": "giao việc này",
+     "t": "25/08 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-125",
+   "ttl": "Giải trình công văn quản lý thị trường về nhãn mác lô hàng",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 5,
+   "kc": 5,
+   "loai": "DOT_XUAT",
+   "giao": "F003",
+   "lam": "F034",
+   "bd": "02/09/2026",
+   "han": "09/09/2026",
+   "dk": 5,
+   "han_goc": "09/09/2026",
+   "doi": 0,
+   "nguon": "Cơ quan nhà nước",
+   "phatSinh": "02/09/2026",
+   "nhanSau": 3,
+   "luat": true,
+   "mat": "HAN_CHE",
+   "sk": "TRE",
+   "phoihop": [],
+   "sp": "Văn bản giải trình đã gửi cơ quan",
+   "tc": [
+    {
+     "t": "Thu thập đủ hồ sơ lô hàng",
+     "d": true
+    },
+    {
+     "t": "Luật sư ngoài soát lại",
+     "d": false
+    },
+    {
+     "t": "Gửi trong hạn công văn",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Ngô Quý Ước",
+     "k": "giao việc này",
+     "t": "02/09 08:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-090",
+   "ttl": "Kiểm toán độc lập báo cáo tài chính năm 2026",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 5,
+   "kc": 3,
+   "loai": "DU_AN",
+   "mat": "NOI_BO",
+   "han_goc": "31/03/2027",
+   "doi": 0,
+   "phoihop": [
+    "F004"
+   ],
+   "tien": 180000000,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": true,
+   "giao": "F001",
+   "lam": "F005",
+   "bd": "01/10/2026",
+   "han": "31/03/2027",
+   "dk": 8,
+   "luat": false,
+   "sp": "Báo cáo kiểm toán năm 2026 đã phát hành và trình HĐQT",
+   "mucdich": "Nghị quyết HĐQT: báo cáo kiểm toán ý kiến chấp nhận toàn phần, không có ngoại trừ",
+   "dieule": {
+    "muctieu": "Có báo cáo kiểm toán ý kiến chấp nhận toàn phần trước 31/3/2027, không phát sinh điều chỉnh trọng yếu",
+    "phamvi": "Toàn bộ báo cáo tài chính riêng năm 2026 của công ty mẹ",
+    "ngoaipham": "Không bao gồm soát xét thuế, không bao gồm công ty liên kết",
+    "nganSach": 180000000,
+    "batdau": "01/10/2026",
+    "ketthuc": "31/03/2027"
+   },
+   "tc": [
+    {
+     "t": "Chọn được công ty kiểm toán trước 31/10",
+     "d": true
+    },
+    {
+     "t": "Cung cấp đủ hồ sơ theo danh mục yêu cầu",
+     "d": false
+    },
+    {
+     "t": "Không có điều chỉnh trọng yếu",
+     "d": false
+    },
+    {
+     "t": "HĐQT thông qua báo cáo",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "giao việc này",
+     "t": "20/08 09:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-091",
+   "ttl": "MỐC: Ký hợp đồng với công ty kiểm toán",
+   "tt": "HOAN_THANH",
+   "cha": "CV-090",
+   "ah": 5,
+   "kc": 4,
+   "moc": true,
+   "loai": "DU_AN",
+   "mat": "NOI_BO",
+   "han_goc": "31/10/2026",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "giao": "F005",
+   "lam": "F005",
+   "bd": "01/10/2026",
+   "han": "31/10/2026",
+   "dk": 2,
+   "luat": false,
+   "sp": "Hợp đồng kiểm toán đã ký",
+   "mucdich": "Kế thừa từ việc cha: báo cáo kiểm toán ý kiến chấp nhận toàn phần",
+   "tc": [
+    {
+     "t": "So sánh ít nhất 3 báo giá",
+     "d": true
+    },
+    {
+     "t": "HĐQT phê duyệt đơn vị kiểm toán",
+     "d": true
+    }
+   ],
+   "diem": {
+    "cl": 5,
+    "cd": 4,
+    "ht": 4,
+    "dh": 5,
+    "tong": 4.75,
+    "boi": "01/11 09:00",
+    "ai": "Đoàn Việt Dũng",
+    "nx": "Chốt sớm 5 ngày, tiết kiệm 12% so báo giá cao nhất."
+   },
+   "files": [],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "01/10 08:00",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Bản hợp đồng đã ký đủ chữ ký và đóng dấu"
+  },
+  {
+   "id": "CV-092",
+   "ttl": "Chuẩn bị bộ hồ sơ kiểm toán theo danh mục yêu cầu",
+   "tt": "DANG_LAM",
+   "cha": "CV-090",
+   "ah": 4,
+   "kc": 3,
+   "loai": "DU_AN",
+   "mat": "NOI_BO",
+   "han_goc": "20/01/2027",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 0,
+   "sk": "RR",
+   "bc": true,
+   "giao": "F005",
+   "lam": "F036",
+   "bd": "01/12/2026",
+   "han": "20/01/2027",
+   "dk": 5,
+   "luat": false,
+   "truoc": [
+    "CV-091"
+   ],
+   "sp": "Bộ hồ sơ đầy đủ theo danh mục kiểm toán viên gửi",
+   "mucdich": "Kế thừa từ việc cha: báo cáo kiểm toán ý kiến chấp nhận toàn phần",
+   "tc": [
+    {
+     "t": "Đủ 100% mục trong danh mục",
+     "d": true
+    },
+    {
+     "t": "Không có mục nào thiếu chứng từ gốc",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "20/11 09:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-093",
+   "ttl": "Xử lý các điểm kiểm toán viên nêu và điều chỉnh sổ",
+   "tt": "MOI",
+   "cha": "CV-090",
+   "ah": 5,
+   "kc": 3,
+   "loai": "DU_AN",
+   "mat": "NOI_BO",
+   "han_goc": "10/03/2027",
+   "doi": 0,
+   "phoihop": [
+    "F037"
+   ],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "giao": "F005",
+   "lam": "F036",
+   "bd": "01/02/2027",
+   "han": "10/03/2027",
+   "dk": 5,
+   "luat": false,
+   "truoc": [
+    "CV-092"
+   ],
+   "sp": "Bảng theo dõi điểm kiểm toán và bút toán điều chỉnh đã hạch toán",
+   "mucdich": "Kế thừa từ việc cha: báo cáo kiểm toán ý kiến chấp nhận toàn phần",
+   "tc": [
+    {
+     "t": "Mọi điểm đều có phản hồi",
+     "d": false
+    },
+    {
+     "t": "Bút toán điều chỉnh được CFO duyệt",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "20/11 09:05",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-094",
+   "ttl": "MỐC: Phát hành báo cáo kiểm toán và trình HĐQT",
+   "tt": "MOI",
+   "cha": "CV-090",
+   "ah": 5,
+   "kc": 3,
+   "moc": true,
+   "loai": "DU_AN",
+   "mat": "NOI_BO",
+   "han_goc": "31/03/2027",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "giao": "F005",
+   "lam": "F005",
+   "bd": "11/03/2027",
+   "han": "31/03/2027",
+   "dk": 3,
+   "luat": false,
+   "truoc": [
+    "CV-093"
+   ],
+   "sp": "Báo cáo kiểm toán bản chính thức và biên bản HĐQT thông qua",
+   "mucdich": "Kế thừa từ việc cha: báo cáo kiểm toán ý kiến chấp nhận toàn phần",
+   "tc": [
+    {
+     "t": "Ý kiến chấp nhận toàn phần",
+     "d": false
+    },
+    {
+     "t": "HĐQT thông qua",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "20/11 09:10",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-060",
+   "ttl": "Chuẩn bị hồ sơ quyết toán thuế năm 2026",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 5,
+   "kc": 2,
+   "giao": "F001",
+   "lam": "F005",
+   "bd": "01/09/2026",
+   "han": "30/11/2026",
+   "dk": 8,
+   "luat": false,
+   "loai": "DU_AN",
+   "mat": "NOI_BO",
+   "han_goc": "30/11/2026",
+   "doi": 0,
+   "phoihop": [
+    "F004"
+   ],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "sp": "Bộ hồ sơ quyết toán thuế năm 2026 trình HĐQT",
+   "mucdich": "Nghị quyết HĐQT: quyết toán thuế năm 2026 không phát sinh truy thu và phạt",
+   "dieule": {
+    "muctieu": "Quyết toán thuế năm 2026 không phát sinh truy thu và tiền phạt",
+    "phamvi": "Thuế thu nhập doanh nghiệp, thuế GTGT và thuế nhà thầu năm 2026",
+    "ngoaipham": "Không bao gồm thuế thu nhập cá nhân, không bao gồm các năm trước",
+    "nganSach": 0,
+    "batdau": "01/09/2026",
+    "ketthuc": "30/11/2026"
+   },
+   "tc": [
+    {
+     "t": "Hồ sơ đầy đủ theo danh mục cơ quan thuế yêu cầu",
+     "d": false
+    },
+    {
+     "t": "Không còn chênh lệch chưa giải trình",
+     "d": false
+    },
+    {
+     "t": "HĐQT thông qua trước 30/11",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "giao việc này",
+     "t": "01/09 08:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-061",
+   "ttl": "Hoàn tất sổ sách và đối chiếu số liệu kế toán năm 2026",
+   "tt": "DANG_LAM",
+   "cha": "CV-060",
+   "ah": 4,
+   "kc": 2,
+   "giao": "F005",
+   "lam": "F036",
+   "bd": "01/09/2026",
+   "han": "31/10/2026",
+   "dk": 5,
+   "luat": false,
+   "loai": "DU_AN",
+   "mat": "NOI_BO",
+   "han_goc": "31/10/2026",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "sp": "Sổ sách kế toán năm 2026 đã khoá và đối chiếu xong",
+   "mucdich": "Kế thừa từ việc cha: quyết toán thuế 2026 không phát sinh truy thu",
+   "tc": [
+    {
+     "t": "Khoá sổ đủ 12 kỳ",
+     "d": true
+    },
+    {
+     "t": "Đối chiếu công nợ và tồn kho khớp cả năm",
+     "d": false
+    },
+    {
+     "t": "Chênh lệch có bảng giải trình",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "01/09 09:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-062",
+   "ttl": "Rà soát hoá đơn đầu vào cả năm 2026",
+   "tt": "DANG_LAM",
+   "cha": "CV-061",
+   "ah": 3,
+   "kc": 3,
+   "giao": "F036",
+   "lam": "F037",
+   "bd": "01/09/2026",
+   "han": "15/10/2026",
+   "dk": 3,
+   "luat": false,
+   "loai": "DU_AN",
+   "mat": "NOI_BO",
+   "han_goc": "15/10/2026",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "sp": "Bảng rà soát hoá đơn đầu vào cả năm, tách riêng hoá đơn không hợp lệ",
+   "mucdich": "Kế thừa từ việc cha: sổ sách 2026 khoá và đối chiếu xong",
+   "tc": [
+    {
+     "t": "Đủ 12 tháng",
+     "d": true
+    },
+    {
+     "t": "Đối chiếu khớp cổng hoá đơn điện tử",
+     "d": true
+    },
+    {
+     "t": "Hoá đơn không hợp lệ tách riêng và ghi lý do",
+     "d": false
+    },
+    {
+     "t": "Kế toán trưởng xác nhận",
+     "d": false
+    }
+   ],
+   "buoc": [
+    {
+     "t": "Tải dữ liệu hoá đơn từ cổng thuế theo từng quý",
+     "d": true
+    },
+    {
+     "t": "Đối chiếu với sổ chi tiết từng tháng",
+     "d": true
+    },
+    {
+     "t": "Lọc hoá đơn của nhà cung cấp đã ngừng hoạt động",
+     "d": false
+    },
+    {
+     "t": "Lập danh sách hoá đơn cần xin lại bản gốc",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "giao việc này",
+     "t": "01/09 10:05",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-063",
+   "ttl": "Đối chiếu công nợ phải trả cả năm 2026",
+   "tt": "MOI",
+   "cha": "CV-061",
+   "ah": 3,
+   "kc": 2,
+   "truoc": [
+    "CV-062"
+   ],
+   "giao": "F036",
+   "lam": "F038",
+   "bd": "01/09/2026",
+   "han": "20/10/2026",
+   "dk": 2,
+   "luat": false,
+   "loai": "DU_AN",
+   "mat": "NOI_BO",
+   "han_goc": "20/10/2026",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 0,
+   "sk": "RR",
+   "bc": true,
+   "sp": "Bảng đối chiếu công nợ phải trả cả năm đã ký xác nhận",
+   "mucdich": "Kế thừa từ việc cha: sổ sách 2026 khoá và đối chiếu xong",
+   "tc": [
+    {
+     "t": "Đủ nhà cung cấp có phát sinh trong năm",
+     "d": false
+    },
+    {
+     "t": "Lệch quá 1% có xác nhận của Kế toán trưởng",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "giao việc này",
+     "t": "01/09 10:12",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-065",
+   "ttl": "Tập hợp hồ sơ pháp lý kèm hồ sơ quyết toán",
+   "tt": "DANG_LAM",
+   "cha": "CV-060",
+   "ah": 3,
+   "kc": 2,
+   "loai": "DU_AN",
+   "mat": "NOI_BO",
+   "han_goc": "30/09/2026",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "giao": "F005",
+   "lam": "F004",
+   "bd": "01/09/2026",
+   "han": "30/09/2026",
+   "dk": 2,
+   "luat": false,
+   "sp": "Bộ hồ sơ pháp lý: giấy phép, hợp đồng lớn, biên bản họp HĐQT",
+   "mucdich": "Kế thừa từ việc cha: quyết toán thuế 2026 không phát sinh truy thu",
+   "tc": [
+    {
+     "t": "Đủ danh mục hồ sơ cơ quan thuế yêu cầu",
+     "d": true
+    },
+    {
+     "t": "Bản sao y có công chứng còn hiệu lực",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "01/09 09:40",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-064",
+   "ttl": "Lập bản giải trình chênh lệch thuế năm 2026",
+   "tt": "MOI",
+   "cha": "CV-060",
+   "ah": 4,
+   "kc": 2,
+   "truoc": [
+    "CV-061"
+   ],
+   "giao": "F005",
+   "lam": "F036",
+   "bd": "15/10/2026",
+   "han": "20/11/2026",
+   "dk": 3,
+   "luat": false,
+   "loai": "DU_AN",
+   "mat": "NOI_BO",
+   "han_goc": "20/11/2026",
+   "doi": 0,
+   "phoihop": [
+    "F004"
+   ],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "sp": "Bản giải trình chênh lệch giữa sổ kế toán và tờ khai thuế",
+   "mucdich": "Kế thừa từ việc cha: quyết toán thuế 2026 không phát sinh truy thu",
+   "tc": [
+    {
+     "t": "Giải trình đủ các khoản chênh lệch",
+     "d": false
+    },
+    {
+     "t": "Có căn cứ văn bản cho từng khoản",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "01/09 09:35",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Tờ khai đã nộp và chứng từ nộp thuế"
+  },
+  {
+   "id": "CV-041",
+   "ttl": "Đối chiếu số dư ngân hàng tuần 35",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 4,
+   "kc": 5,
+   "loai": "CHU_KY",
+   "lap": "TUAN",
+   "soKy": 31,
+   "kyDung": 29,
+   "mat": "NOI_BO",
+   "han_goc": "02/09/2026",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 0,
+   "sk": "TRE",
+   "bc": true,
+   "giao": "F036",
+   "lam": "F038",
+   "bd": "31/08/2026",
+   "han": "02/09/2026",
+   "dk": 2,
+   "luat": false,
+   "sp": "Bảng đối chiếu số dư 4 tài khoản ngân hàng, đã in và ký",
+   "mucdich": "KPI phòng: số dư sổ khớp sao kê 100%, không để lệch qua tuần",
+   "tc": [
+    {
+     "t": "Đủ 4 tài khoản ngân hàng",
+     "d": true
+    },
+    {
+     "t": "Số dư khớp sao kê từng tài khoản",
+     "d": false
+    },
+    {
+     "t": "Khoản lệch có giải trình bằng chứng từ",
+     "d": false
+    }
+   ],
+   "log": [
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "giao việc này",
+     "t": "31/08 08:20",
+     "s": 1
+    },
+    {
+     "w": "Lê Quang Anh",
+     "k": "nhận việc",
+     "t": "31/08 08:47",
+     "s": 1
+    },
+    {
+     "w": "Lê Quang Anh",
+     "k": "",
+     "t": "02/09 16:40",
+     "s": 0,
+     "x": "Chị ơi tài khoản Vietcombank có 3 giao dịch ngày 29/8 chưa về sao kê, em đã gửi mail cho ngân hàng nhưng chưa có phản hồi. Em xin lùi 2 ngày ạ."
+    },
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "",
+     "t": "03/09 08:05",
+     "s": 0,
+     "x": "Em cứ đối chiếu 3 tài khoản còn lại trước và nộp phần đó. Riêng Vietcombank ghi rõ là đang chờ ngân hàng, chị sẽ gọi hôm nay."
+    }
+   ],
+   "files": [
+    {
+     "id": "h1",
+     "ten": "Sao ke VCB tuan 35.pdf",
+     "kb": 340,
+     "boi": "Lê Quang Anh",
+     "luc": "01/09 09:12",
+     "gd": "LAM",
+     "ver": 1,
+     "ct": false
+    }
+   ],
+   "dexuat": [
+    {
+     "loai": "THEM",
+     "nd": "Giao dịch chưa về sao kê được liệt kê riêng kèm ngày dự kiến",
+     "boi": "Lê Quang Anh",
+     "luc": "03/09 09:30"
+    }
+   ]
+  },
+  {
+   "id": "CV-046",
+   "ttl": "Lập bảng kê hoá đơn đầu vào tháng 8/2026",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 4,
+   "kc": 5,
+   "loai": "CHU_KY",
+   "lap": "THANG",
+   "soKy": 14,
+   "kyDung": 13,
+   "mat": "NOI_BO",
+   "han_goc": "04/09/2026",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 0,
+   "sk": "BT",
+   "bc": false,
+   "giao": "F036",
+   "lam": "F037",
+   "bd": "01/09/2026",
+   "han": "04/09/2026",
+   "dk": 2,
+   "luat": false,
+   "sp": "Bảng kê hoá đơn đầu vào tháng 8 đã đối chiếu với hoá đơn điện tử",
+   "mucdich": "Chuẩn bị dữ liệu cho tờ khai thuế GTGT kỳ tháng 8",
+   "tc": [
+    {
+     "t": "Đủ hoá đơn của tất cả nhà cung cấp có phát sinh",
+     "d": true
+    },
+    {
+     "t": "Đối chiếu khớp cổng hoá đơn điện tử",
+     "d": true
+    },
+    {
+     "t": "Hoá đơn không hợp lệ được tách riêng và ghi lý do",
+     "d": false
+    }
+   ],
+   "files": [
+    {
+     "id": "f1",
+     "ten": "Danh muc NCC thang 8.xlsx",
+     "kb": 184,
+     "boi": "Doãn Thị Sáu",
+     "luc": "01/09 07:55",
+     "gd": "GIAO",
+     "ver": 1,
+     "ct": false
+    },
+    {
+     "id": "f2",
+     "ten": "Bang ke HDDV thang 8 - ban nhap.xlsx",
+     "kb": 512,
+     "boi": "Phạm Thị Bích Ngọc",
+     "luc": "03/09 15:20",
+     "gd": "LAM",
+     "ver": 1,
+     "ct": false
+    },
+    {
+     "id": "f3",
+     "ten": "Bang ke HDDV thang 8 - ban nhap.xlsx",
+     "kb": 548,
+     "boi": "Phạm Thị Bích Ngọc",
+     "luc": "04/09 08:40",
+     "gd": "LAM",
+     "ver": 2,
+     "ct": false
+    }
+   ],
+   "log": [
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "giao việc này",
+     "t": "01/09 07:55",
+     "s": 1
+    },
+    {
+     "w": "Phạm Thị Bích Ngọc",
+     "k": "nhận việc",
+     "t": "01/09 08:10",
+     "s": 1
+    },
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "đính kèm Danh muc NCC thang 8.xlsx",
+     "t": "01/09 07:55",
+     "s": 1
+    },
+    {
+     "w": "Phạm Thị Bích Ngọc",
+     "k": "tải lên bản 2 của Bang ke HDDV thang 8 - ban nhap.xlsx",
+     "t": "04/09 08:40",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-048",
+   "ttl": "Khoá sổ và lập báo cáo tài chính nội bộ tháng 8/2026",
+   "tt": "CHO_DUYET",
+   "cha": null,
+   "ah": 5,
+   "kc": 4,
+   "loai": "CHU_KY",
+   "lap": "THANG",
+   "soKy": 23,
+   "kyDung": 22,
+   "mat": "HAN_CHE",
+   "han_goc": "05/09/2026",
+   "doi": 0,
+   "phoihop": [
+    "F004"
+   ],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "giao": "F005",
+   "lam": "F036",
+   "bd": "01/09/2026",
+   "han": "05/09/2026",
+   "dk": 5,
+   "luat": false,
+   "sp": "Bộ báo cáo tài chính nội bộ tháng 8 đã trình CFO",
+   "mucdich": "KPI phòng: BCTC nội bộ hoàn thành đúng hạn trước ngày 5, đủ 12/12 kỳ",
+   "tc": [
+    {
+     "t": "Khoá sổ đủ các phân hệ",
+     "d": true
+    },
+    {
+     "t": "Đối chiếu công nợ và tồn kho khớp",
+     "d": true
+    },
+    {
+     "t": "Nộp trước ngày 5",
+     "d": true
+    },
+    {
+     "t": "CFO ký duyệt",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "03/09 17:22",
+    "x": "Em gửi anh bộ BCTC nội bộ tháng 8. Có một điểm cần lưu ý: chi phí kho tăng 14% so tháng 7 do phát sinh thuê xe ngoài đợt cao điểm, em đã tách riêng ở thuyết minh mục 4.2."
+   },
+   "files": [
+    {
+     "id": "g1",
+     "ten": "BCTC noi bo T8-2026.pdf",
+     "kb": 1420,
+     "boi": "Doãn Thị Sáu",
+     "luc": "03/09 17:22",
+     "gd": "NOP",
+     "ver": 1,
+     "ct": true
+    },
+    {
+     "id": "g2",
+     "ten": "Thuyet minh muc 4.2 - chi phi kho.docx",
+     "kb": 96,
+     "boi": "Doãn Thị Sáu",
+     "luc": "03/09 17:22",
+     "gd": "NOP",
+     "ver": 1,
+     "ct": true
+    },
+    {
+     "id": "g3",
+     "ten": "So chi tiet cong no T8.xlsx",
+     "kb": 1180,
+     "boi": "Doãn Thị Sáu",
+     "luc": "02/09 11:05",
+     "gd": "LAM",
+     "ver": 1,
+     "ct": false
+    }
+   ],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "01/09 08:00",
+     "s": 1
+    },
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "nhận việc",
+     "t": "01/09 08:12",
+     "s": 1
+    },
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "nộp kết quả kèm 2 tệp sản phẩm",
+     "t": "03/09 17:22",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-050",
+   "ttl": "Đối soát công nợ phải trả và lập lịch thanh toán nhà cung cấp tháng 9",
+   "tt": "MOI",
+   "cha": null,
+   "ah": 5,
+   "kc": 3,
+   "loai": "CHU_KY",
+   "lap": "THANG",
+   "soKy": 18,
+   "kyDung": 17,
+   "mat": "NOI_BO",
+   "han_goc": "08/09/2026",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 1850000000,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": true,
+   "giao": "F036",
+   "lam": "F038",
+   "bd": "01/09/2026",
+   "han": "08/09/2026",
+   "dk": 3,
+   "luat": false,
+   "sp": "Bảng đối soát công nợ phải trả và lịch thanh toán đã được CFO duyệt",
+   "mucdich": "KPI phòng: thời gian xử lý đề nghị thanh toán không quá 2 ngày làm việc",
+   "tc": [
+    {
+     "t": "Đối chiếu đủ nhà cung cấp có phát sinh",
+     "d": false
+    },
+    {
+     "t": "Lệch quá 1% phải có xác nhận của Kế toán trưởng",
+     "d": false
+    },
+    {
+     "t": "Lịch thanh toán được CFO duyệt",
+     "d": false
+    }
+   ],
+   "buoc": [
+    {
+     "t": "Kết xuất công nợ phải trả từ phần mềm kế toán",
+     "d": false
+    },
+    {
+     "t": "Gửi thư đối chiếu cho nhà cung cấp có phát sinh",
+     "d": false
+    },
+    {
+     "t": "Tổng hợp phản hồi và lập bảng chênh lệch",
+     "d": false
+    },
+    {
+     "t": "Xếp thứ tự ưu tiên thanh toán theo hạn hợp đồng",
+     "d": false
+    },
+    {
+     "t": "Trình Kế toán trưởng ký nháy rồi trình CFO",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "giao việc này",
+     "t": "04/09 08:30",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Đề nghị thanh toán có duyệt và uỷ nhiệm chi"
+  },
+  {
+   "id": "CV-052",
+   "ttl": "Kê khai và nộp thuế GTGT kỳ tháng 8/2026",
+   "tt": "MOI",
+   "cha": null,
+   "ah": 5,
+   "kc": 3,
+   "loai": "CHU_KY",
+   "lap": "THANG",
+   "soKy": 26,
+   "kyDung": 26,
+   "mat": "NOI_BO",
+   "han_goc": "20/09/2026",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "giao": "F036",
+   "lam": "F037",
+   "bd": "01/09/2026",
+   "han": "20/09/2026",
+   "dk": 3,
+   "luat": true,
+   "sp": "Tờ khai đã nộp và chứng từ nộp thuế",
+   "mucdich": "KPI phòng: kê khai và nộp thuế đúng hạn 100%",
+   "tc": [
+    {
+     "t": "Tờ khai khớp sổ",
+     "d": false
+    },
+    {
+     "t": "Nộp trước hạn luật định",
+     "d": false
+    },
+    {
+     "t": "Lưu chứng từ vào hồ sơ thuế",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "giao việc này",
+     "t": "04/09 08:34",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Tờ khai đã nộp và chứng từ nộp thuế"
+  },
+  {
+   "id": "CV-070",
+   "ttl": "Cập nhật quy trình thanh toán nội bộ theo yêu cầu kiểm toán",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 4,
+   "kc": 3,
+   "loai": "CONG_VIEC",
+   "mat": "NOI_BO",
+   "han_goc": "25/09/2026",
+   "doi": 0,
+   "phoihop": [
+    "F038"
+   ],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "giao": "F005",
+   "lam": "F036",
+   "bd": "25/08/2026",
+   "han": "25/09/2026",
+   "dk": 5,
+   "luat": false,
+   "sp": "Quy trình thanh toán nội bộ bản mới đã ban hành",
+   "mucdich": "Kiểm toán năm 2025 nêu điểm yếu về phân tách nhiệm vụ trong khâu thanh toán",
+   "tc": [
+    {
+     "t": "Có sơ đồ luồng và bảng phân quyền",
+     "d": true
+    },
+    {
+     "t": "Tách bạch người đề nghị, người duyệt, người chi",
+     "d": false
+    },
+    {
+     "t": "CFO ký ban hành",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "25/08 09:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-071",
+   "ttl": "Rà soát hợp đồng thuê kho Bắc Ninh sắp hết hạn",
+   "tt": "MOI",
+   "cha": null,
+   "ah": 4,
+   "kc": 4,
+   "loai": "CONG_VIEC",
+   "mat": "NOI_BO",
+   "han_goc": "18/09/2026",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "giao": "F005",
+   "lam": "F004",
+   "bd": "01/09/2026",
+   "han": "18/09/2026",
+   "dk": 3,
+   "luat": false,
+   "sp": "Bản đối chiếu điều khoản và đề xuất tái ký hoặc chuyển kho",
+   "mucdich": "Hợp đồng hết hạn 31/12, cần chốt phương án trước khi vào mùa cao điểm",
+   "tc": [
+    {
+     "t": "So sánh giá thuê với ít nhất 2 kho tương đương",
+     "d": false
+    },
+    {
+     "t": "Đánh giá chi phí chuyển kho nếu đổi",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "01/09 08:15",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Bản hợp đồng đã ký đủ chữ ký và đóng dấu"
+  },
+  {
+   "id": "CV-080",
+   "ttl": "Giải trình chênh lệch doanh thu quý 2 theo yêu cầu cơ quan thuế",
+   "tt": "DANG_LAM",
+   "cha": null,
+   "ah": 5,
+   "kc": 5,
+   "loai": "DOT_XUAT",
+   "mat": "HAN_CHE",
+   "han_goc": "08/09/2026",
+   "doi": 0,
+   "phoihop": [
+    "F036"
+   ],
+   "tien": 0,
+   "sk": "RR",
+   "bc": true,
+   "nguon": "Công văn cơ quan thuế",
+   "phatSinh": "02/09/2026",
+   "nhanSau": 1.5,
+   "giao": "F005",
+   "lam": "F037",
+   "bd": "02/09/2026",
+   "han": "08/09/2026",
+   "dk": 5,
+   "luat": true,
+   "sp": "Công văn giải trình kèm bảng đối chiếu doanh thu quý 2",
+   "mucdich": "Trả lời công văn trong thời hạn luật định, tránh bị ấn định thuế",
+   "tc": [
+    {
+     "t": "Đối chiếu doanh thu sổ với tờ khai từng tháng",
+     "d": true
+    },
+    {
+     "t": "Giải thích được từng khoản chênh",
+     "d": false
+    },
+    {
+     "t": "Pháp chế soát trước khi gửi",
+     "d": false
+    }
+   ],
+   "files": [],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "02/09 10:30",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-081",
+   "ttl": "Truy tìm chênh lệch 47 triệu trên tài khoản Techcombank",
+   "tt": "CHO_DUYET",
+   "cha": null,
+   "ah": 4,
+   "kc": 5,
+   "loai": "DOT_XUAT",
+   "mat": "NOI_BO",
+   "han_goc": "04/09/2026",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 47000000,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": true,
+   "nguon": "CFO phát hiện khi soát sao kê",
+   "phatSinh": "03/09/2026",
+   "nhanSau": 0.5,
+   "giao": "F005",
+   "lam": "F038",
+   "bd": "03/09/2026",
+   "han": "04/09/2026",
+   "dk": 3,
+   "luat": false,
+   "sp": "Báo cáo truy vết kèm chứng từ gốc của khoản chênh",
+   "mucdich": "Không để chênh lệch chưa rõ nguyên nhân qua kỳ khoá sổ",
+   "tc": [
+    {
+     "t": "Xác định được nguồn gốc khoản chênh",
+     "d": true
+    },
+    {
+     "t": "Có chứng từ gốc hoặc xác nhận ngân hàng",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "04/09 08:20",
+    "x": "Là khoản phí bảo lãnh ngân hàng thu tự động, chưa hạch toán. Đã có xác nhận Techcombank."
+   },
+   "files": [],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "03/09 14:10",
+     "s": 1
+    },
+    {
+     "w": "Lê Quang Anh",
+     "k": "nộp kết quả, chờ duyệt",
+     "t": "04/09 08:20",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-039",
+   "ttl": "Lập bảng lương tháng 8 và chuyển bảo hiểm",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "ah": 5,
+   "kc": 3,
+   "loai": "CHU_KY",
+   "lap": "THANG",
+   "soKy": 23,
+   "kyDung": 21,
+   "mat": "HAN_CHE",
+   "han_goc": "31/08/2026",
+   "doi": 0,
+   "phoihop": [],
+   "tien": 0,
+   "sk": "BT",
+   "bc": true,
+   "giao": "F005",
+   "lam": "F036",
+   "bd": "25/08/2026",
+   "han": "31/08/2026",
+   "dk": 3,
+   "luat": false,
+   "sp": "Bảng lương đã duyệt và chứng từ nộp bảo hiểm",
+   "mucdich": "KPI phòng: chi lương đúng ngày cam kết, 12/12 kỳ",
+   "tc": [
+    {
+     "t": "Bảng lương khớp bảng chấm công",
+     "d": true
+    },
+    {
+     "t": "Chuyển bảo hiểm trước ngày cuối tháng",
+     "d": true
+    },
+    {
+     "t": "CFO duyệt trước khi chi",
+     "d": true
+    }
+   ],
+   "diem": {
+    "cl": 5,
+    "cd": 4,
+    "ht": 4,
+    "dh": 5,
+    "tong": 4.75,
+    "boi": "03/09 09:40",
+    "ai": "Trịnh Thái Ly",
+    "nx": "Làm sớm 1 ngày, phát hiện sai lệch chấm công của kho và chủ động báo trước khi chi."
+   },
+   "files": [
+    {
+     "id": "l1",
+     "ten": "Bang luong T8-2026 da duyet.xlsx",
+     "kb": 224,
+     "boi": "Doãn Thị Sáu",
+     "luc": "30/08 16:10",
+     "gd": "NOP",
+     "ver": 1,
+     "ct": true
+    },
+    {
+     "id": "l2",
+     "ten": "Chung tu nop bao hiem T8.pdf",
+     "kb": 410,
+     "boi": "Doãn Thị Sáu",
+     "luc": "30/08 16:10",
+     "gd": "NOP",
+     "ver": 1,
+     "ct": true
+    }
+   ],
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "giao việc này",
+     "t": "25/08 09:00",
+     "s": 1
+    },
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "nộp kết quả, chờ duyệt",
+     "t": "30/08 16:10",
+     "s": 1
+    },
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "duyệt và chấm điểm 4.75",
+     "t": "03/09 09:40",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-200",
+   "ttl": "Đối chiếu số dư ngân hàng tuần — kỳ 06/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F036",
+   "lam": "F038",
+   "bd": "03/07/2026",
+   "han": "06/07/2026",
+   "han_goc": "06/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "06/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 5,
+    "cd": 5,
+    "ht": 3,
+    "tong": 3.9000000000000004,
+    "ai": "Doãn Thị Sáu",
+    "luc": "06/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "06/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-201",
+   "ttl": "Báo cáo hiệu quả kênh Online — kỳ 06/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F001",
+   "lam": "F042",
+   "bd": "02/07/2026",
+   "han": "06/07/2026",
+   "han_goc": "06/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "04/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 4,
+    "ht": 5,
+    "tong": 4.4,
+    "ai": "Đoàn Việt Dũng",
+    "luc": "04/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "04/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-202",
+   "ttl": "Đối soát công nợ phải trả — kỳ 07/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F036",
+   "lam": "F038",
+   "bd": "30/06/2026",
+   "han": "07/07/2026",
+   "han_goc": "01/07/2026",
+   "doi": 2,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "08/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 3,
+    "cd": 3,
+    "ht": 4,
+    "tong": 3.1,
+    "ai": "Doãn Thị Sáu",
+    "luc": "08/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "08/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-203",
+   "ttl": "Kiểm đếm hàng nhập kho — kỳ 04/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F008",
+   "lam": "F016",
+   "bd": "30/06/2026",
+   "han": "04/07/2026",
+   "han_goc": "04/07/2026",
+   "doi": 0,
+   "dk": 2,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "03/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 5,
+    "cd": 5,
+    "ht": 3,
+    "tong": 3.9000000000000004,
+    "ai": "Nguyễn Văn Nhu",
+    "luc": "03/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Nguyễn Văn Nhu",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "03/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-204",
+   "ttl": "Lập lịch xe giao hàng tuần — kỳ 10/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F008",
+   "lam": "F010",
+   "bd": "05/07/2026",
+   "han": "10/07/2026",
+   "han_goc": "10/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "08/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 4,
+    "cd": 5,
+    "ht": 5,
+    "tong": 3.8,
+    "ai": "Nguyễn Văn Nhu",
+    "luc": "08/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Nguyễn Văn Nhu",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "08/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-205",
+   "ttl": "Rà soát hợp đồng nhà cung cấp — kỳ 10/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F003",
+   "lam": "F034",
+   "bd": "05/07/2026",
+   "han": "10/07/2026",
+   "han_goc": "10/07/2026",
+   "doi": 0,
+   "dk": 5,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": true,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "10/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 4,
+    "cd": 3,
+    "ht": 4,
+    "tong": 3.85,
+    "ai": "Ngô Quý Ước",
+    "luc": "10/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Ngô Quý Ước",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "10/07 17:00",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Bản hợp đồng đã ký đủ chữ ký và đóng dấu"
+  },
+  {
+   "id": "CV-206",
+   "ttl": "Dựng video giới thiệu sản phẩm — kỳ 10/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F024",
+   "lam": "F025",
+   "bd": "04/07/2026",
+   "han": "10/07/2026",
+   "han_goc": "10/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "08/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 4,
+    "cd": 4,
+    "ht": 3,
+    "tong": 3.9000000000000004,
+    "ai": "Lê Thanh Long",
+    "luc": "08/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Lê Thanh Long",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "08/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-207",
+   "ttl": "Kiểm kê tồn kho định kỳ — kỳ 13/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F008",
+   "lam": "F012",
+   "bd": "09/07/2026",
+   "han": "13/07/2026",
+   "han_goc": "13/07/2026",
+   "doi": 0,
+   "dk": 5,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": true,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "17/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 3,
+    "cd": 4,
+    "ht": 3,
+    "tong": 3.1500000000000004,
+    "ai": "Nguyễn Văn Nhu",
+    "luc": "17/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Nguyễn Văn Nhu",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "17/07 17:00",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Biên bản kiểm kê có đủ chữ ký thủ kho và kế toán"
+  },
+  {
+   "id": "CV-208",
+   "ttl": "Báo cáo hiệu quả kênh Online — kỳ 20/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F001",
+   "lam": "F042",
+   "bd": "14/07/2026",
+   "han": "20/07/2026",
+   "han_goc": "20/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "18/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 4,
+    "cd": 2,
+    "ht": 4,
+    "tong": 3.6999999999999997,
+    "ai": "Đoàn Việt Dũng",
+    "luc": "18/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "18/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-209",
+   "ttl": "Đối soát công nợ phải trả — kỳ 21/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F036",
+   "lam": "F038",
+   "bd": "16/07/2026",
+   "han": "21/07/2026",
+   "han_goc": "21/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "21/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 3,
+    "ht": 4,
+    "tong": 4.15,
+    "ai": "Doãn Thị Sáu",
+    "luc": "21/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "21/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-210",
+   "ttl": "Kiểm đếm hàng nhập kho — kỳ 18/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F008",
+   "lam": "F016",
+   "bd": "11/07/2026",
+   "han": "18/07/2026",
+   "han_goc": "18/07/2026",
+   "doi": 0,
+   "dk": 2,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "23/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 1,
+    "cd": 3,
+    "ht": 3,
+    "tong": 2.4000000000000004,
+    "ai": "Nguyễn Văn Nhu",
+    "luc": "23/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Nguyễn Văn Nhu",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "23/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-211",
+   "ttl": "Chăm sóc nhóm đại lý — kỳ 21/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F018",
+   "lam": "F019",
+   "bd": "13/07/2026",
+   "han": "21/07/2026",
+   "han_goc": "21/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "20/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 5,
+    "dh": 4,
+    "cd": 2,
+    "ht": 4,
+    "tong": 4.15,
+    "ai": "Đặng Thị Hoa",
+    "luc": "20/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Đặng Thị Hoa",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "20/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-212",
+   "ttl": "Khảo sát báo giá nhà cung cấp — kỳ 18/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F005",
+   "lam": "F045",
+   "bd": "12/07/2026",
+   "han": "18/07/2026",
+   "han_goc": "18/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "18/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 2,
+    "ht": 4,
+    "tong": 3.9999999999999996,
+    "ai": "Trịnh Thái Ly",
+    "luc": "18/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "18/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-213",
+   "ttl": "Chuẩn bị hồ sơ pháp lý — kỳ 18/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F003",
+   "lam": "F035",
+   "bd": "12/07/2026",
+   "han": "18/07/2026",
+   "han_goc": "18/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "16/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 5,
+    "cd": 4,
+    "ht": 4,
+    "tong": 3.85,
+    "ai": "Ngô Quý Ước",
+    "luc": "16/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Ngô Quý Ước",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "16/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-214",
+   "ttl": "Khảo sát báo giá nhà cung cấp — kỳ 25/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F005",
+   "lam": "F045",
+   "bd": "17/07/2026",
+   "han": "25/07/2026",
+   "han_goc": "25/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "23/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 4,
+    "ht": 5,
+    "tong": 4.4,
+    "ai": "Trịnh Thái Ly",
+    "luc": "23/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "23/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-215",
+   "ttl": "Chuẩn bị hồ sơ pháp lý — kỳ 25/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F003",
+   "lam": "F035",
+   "bd": "22/07/2026",
+   "han": "25/07/2026",
+   "han_goc": "25/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "23/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 4,
+    "ht": 4,
+    "tong": 4.3,
+    "ai": "Ngô Quý Ước",
+    "luc": "23/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Ngô Quý Ước",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "23/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-216",
+   "ttl": "Lập lịch xe giao hàng tuần — kỳ 24/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F008",
+   "lam": "F010",
+   "bd": "17/07/2026",
+   "han": "24/07/2026",
+   "han_goc": "24/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "22/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 5,
+    "dh": 5,
+    "cd": 3,
+    "ht": 4,
+    "tong": 4.6000000000000005,
+    "ai": "Nguyễn Văn Nhu",
+    "luc": "22/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Nguyễn Văn Nhu",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "22/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-217",
+   "ttl": "Rà soát hợp đồng nhà cung cấp — kỳ 27/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F003",
+   "lam": "F034",
+   "bd": "22/07/2026",
+   "han": "27/07/2026",
+   "han_goc": "27/07/2026",
+   "doi": 0,
+   "dk": 5,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": true,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "25/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 4,
+    "ht": 2,
+    "tong": 4.1,
+    "ai": "Ngô Quý Ước",
+    "luc": "25/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Ngô Quý Ước",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "25/07 17:00",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Bản hợp đồng đã ký đủ chữ ký và đóng dấu"
+  },
+  {
+   "id": "CV-218",
+   "ttl": "Dựng video giới thiệu sản phẩm — kỳ 25/07",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F024",
+   "lam": "F025",
+   "bd": "22/07/2026",
+   "han": "25/07/2026",
+   "han_goc": "25/07/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "24/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 5,
+    "cd": 2,
+    "ht": 3,
+    "tong": 3.45,
+    "ai": "Lê Thanh Long",
+    "luc": "24/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Lê Thanh Long",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "24/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-219",
+   "ttl": "Đối chiếu công nợ đại lý — kỳ 04/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F018",
+   "lam": "F021",
+   "bd": "01/08/2026",
+   "han": "04/08/2026",
+   "han_goc": "04/08/2026",
+   "doi": 0,
+   "dk": 2,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "02/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 5,
+    "dh": 5,
+    "cd": 3,
+    "ht": 4,
+    "tong": 4.6000000000000005,
+    "ai": "Đặng Thị Hoa",
+    "luc": "02/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Đặng Thị Hoa",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "02/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-220",
+   "ttl": "Lập bảng kê hoá đơn đầu vào — kỳ 01/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F036",
+   "lam": "F037",
+   "bd": "25/07/2026",
+   "han": "01/08/2026",
+   "han_goc": "01/08/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "30/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 4,
+    "cd": 4,
+    "ht": 5,
+    "tong": 4.1,
+    "ai": "Doãn Thị Sáu",
+    "luc": "30/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "30/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-221",
+   "ttl": "Triển khai chiến dịch quảng cáo số — kỳ 01/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F001",
+   "lam": "F024",
+   "bd": "26/07/2026",
+   "han": "01/08/2026",
+   "han_goc": "01/08/2026",
+   "doi": 0,
+   "dk": 5,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "30/07 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 5,
+    "dh": 5,
+    "cd": 4,
+    "ht": 5,
+    "tong": 4.85,
+    "ai": "Đoàn Việt Dũng",
+    "luc": "30/07 17:00"
+   },
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "30/07 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-222",
+   "ttl": "Khoá sổ báo cáo nội bộ — kỳ 03/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F005",
+   "lam": "F036",
+   "bd": "26/07/2026",
+   "han": "03/08/2026",
+   "han_goc": "03/08/2026",
+   "doi": 0,
+   "dk": 5,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "01/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 4,
+    "ht": 4,
+    "tong": 4.3,
+    "ai": "Trịnh Thái Ly",
+    "luc": "01/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "01/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-223",
+   "ttl": "Điều phối xe giao hàng cao điểm — kỳ 08/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F010",
+   "lam": "F014",
+   "bd": "05/08/2026",
+   "han": "08/08/2026",
+   "han_goc": "08/08/2026",
+   "doi": 0,
+   "dk": 2,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "08/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 4,
+    "cd": 2,
+    "ht": 4,
+    "tong": 3.6999999999999997,
+    "ai": "Nguyễn Tiến Mão",
+    "luc": "08/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Nguyễn Tiến Mão",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "08/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-224",
+   "ttl": "Xử lý đơn hàng kênh GT tuần — kỳ 08/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F018",
+   "lam": "F020",
+   "bd": "01/08/2026",
+   "han": "08/08/2026",
+   "han_goc": "08/08/2026",
+   "doi": 0,
+   "dk": 2,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "09/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 1,
+    "cd": 4,
+    "ht": 3,
+    "tong": 3,
+    "ai": "Đặng Thị Hoa",
+    "luc": "09/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Đặng Thị Hoa",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "09/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-225",
+   "ttl": "Theo dõi lô hàng nhập khẩu — kỳ 07/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F005",
+   "lam": "F043",
+   "bd": "04/08/2026",
+   "han": "07/08/2026",
+   "han_goc": "07/08/2026",
+   "doi": 0,
+   "dk": 5,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": true,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "06/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 5,
+    "dh": 4,
+    "cd": 5,
+    "ht": 4,
+    "tong": 4.6000000000000005,
+    "ai": "Trịnh Thái Ly",
+    "luc": "06/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "06/08 17:00",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Biên bản nghiệm thu và ảnh tình trạng hàng"
+  },
+  {
+   "id": "CV-226",
+   "ttl": "Vận hành sàn thương mại điện tử — kỳ 08/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F024",
+   "lam": "F033",
+   "bd": "31/07/2026",
+   "han": "08/08/2026",
+   "han_goc": "08/08/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "07/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 4,
+    "cd": 3,
+    "ht": 3,
+    "tong": 3.75,
+    "ai": "Lê Thanh Long",
+    "luc": "07/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Lê Thanh Long",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "07/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-227",
+   "ttl": "Lập bảng kê hoá đơn đầu vào — kỳ 15/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F036",
+   "lam": "F037",
+   "bd": "10/08/2026",
+   "han": "15/08/2026",
+   "han_goc": "15/08/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "15/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 5,
+    "ht": 4,
+    "tong": 4.45,
+    "ai": "Doãn Thị Sáu",
+    "luc": "15/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Doãn Thị Sáu",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "15/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-228",
+   "ttl": "Triển khai chiến dịch quảng cáo số — kỳ 15/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F001",
+   "lam": "F024",
+   "bd": "11/08/2026",
+   "han": "15/08/2026",
+   "han_goc": "15/08/2026",
+   "doi": 0,
+   "dk": 5,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "14/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 5,
+    "ht": 3,
+    "tong": 4.35,
+    "ai": "Đoàn Việt Dũng",
+    "luc": "14/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "14/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-229",
+   "ttl": "Khoá sổ báo cáo nội bộ — kỳ 18/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F005",
+   "lam": "F036",
+   "bd": "10/08/2026",
+   "han": "18/08/2026",
+   "han_goc": "18/08/2026",
+   "doi": 0,
+   "dk": 5,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "18/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 5,
+    "dh": 5,
+    "cd": 5,
+    "ht": 3,
+    "tong": 4.8,
+    "ai": "Trịnh Thái Ly",
+    "luc": "18/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "18/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-230",
+   "ttl": "Lập kế hoạch sự kiện nhỏ — kỳ 15/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F026",
+   "lam": "F032",
+   "bd": "12/08/2026",
+   "han": "15/08/2026",
+   "han_goc": "15/08/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "13/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 4,
+    "ht": 4,
+    "tong": 4.3,
+    "ai": "Nguyễn Quốc Bằng",
+    "luc": "13/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Nguyễn Quốc Bằng",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "13/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-231",
+   "ttl": "Vận hành đơn hàng phiên livestream — kỳ 15/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F001",
+   "lam": "F041",
+   "bd": "08/08/2026",
+   "han": "15/08/2026",
+   "han_goc": "15/08/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "15/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 4,
+    "ht": 3,
+    "tong": 4.2,
+    "ai": "Đoàn Việt Dũng",
+    "luc": "15/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "15/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-232",
+   "ttl": "Xử lý claim hàng lỗi — kỳ 17/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F005",
+   "lam": "F044",
+   "bd": "14/08/2026",
+   "han": "17/08/2026",
+   "han_goc": "17/08/2026",
+   "doi": 0,
+   "dk": 5,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "17/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 3,
+    "ht": 3,
+    "tong": 4.05,
+    "ai": "Trịnh Thái Ly",
+    "luc": "17/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "17/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-233",
+   "ttl": "Vận hành đơn hàng phiên livestream — kỳ 22/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F001",
+   "lam": "F041",
+   "bd": "19/08/2026",
+   "han": "22/08/2026",
+   "han_goc": "22/08/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "21/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 4,
+    "cd": 5,
+    "ht": 4,
+    "tong": 3.6999999999999997,
+    "ai": "Đoàn Việt Dũng",
+    "luc": "21/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Đoàn Việt Dũng",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "21/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-234",
+   "ttl": "Xử lý claim hàng lỗi — kỳ 25/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F005",
+   "lam": "F044",
+   "bd": "19/08/2026",
+   "han": "25/08/2026",
+   "han_goc": "25/08/2026",
+   "doi": 0,
+   "dk": 5,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "26/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 3,
+    "cd": 2,
+    "ht": 4,
+    "tong": 2.9499999999999997,
+    "ai": "Trịnh Thái Ly",
+    "luc": "26/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "26/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-235",
+   "ttl": "Điều phối xe giao hàng cao điểm — kỳ 24/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F010",
+   "lam": "F014",
+   "bd": "19/08/2026",
+   "han": "24/08/2026",
+   "han_goc": "24/08/2026",
+   "doi": 0,
+   "dk": 2,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "24/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 5,
+    "dh": 5,
+    "cd": 4,
+    "ht": 4,
+    "tong": 4.75,
+    "ai": "Nguyễn Tiến Mão",
+    "luc": "24/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Nguyễn Tiến Mão",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "24/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-236",
+   "ttl": "Xử lý đơn hàng kênh GT tuần — kỳ 22/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F018",
+   "lam": "F020",
+   "bd": "18/08/2026",
+   "han": "22/08/2026",
+   "han_goc": "22/08/2026",
+   "doi": 0,
+   "dk": 2,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "21/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 4,
+    "cd": 4,
+    "ht": 4,
+    "tong": 3.55,
+    "ai": "Đặng Thị Hoa",
+    "luc": "21/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Đặng Thị Hoa",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "21/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-237",
+   "ttl": "Theo dõi lô hàng nhập khẩu — kỳ 22/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F005",
+   "lam": "F043",
+   "bd": "18/08/2026",
+   "han": "22/08/2026",
+   "han_goc": "19/08/2026",
+   "doi": 1,
+   "dk": 5,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": true,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "27/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 1,
+    "cd": 4,
+    "ht": 5,
+    "tong": 3.2,
+    "ai": "Trịnh Thái Ly",
+    "luc": "27/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "27/08 17:00",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Biên bản nghiệm thu và ảnh tình trạng hàng"
+  },
+  {
+   "id": "CV-238",
+   "ttl": "Vận hành sàn thương mại điện tử — kỳ 25/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F024",
+   "lam": "F033",
+   "bd": "18/08/2026",
+   "han": "25/08/2026",
+   "han_goc": "25/08/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "23/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 5,
+    "cd": 3,
+    "ht": 3,
+    "tong": 3.5999999999999996,
+    "ai": "Lê Thanh Long",
+    "luc": "23/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Lê Thanh Long",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "23/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-239",
+   "ttl": "Theo dõi lô hàng nhập khẩu — kỳ 31/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F005",
+   "lam": "F043",
+   "bd": "25/08/2026",
+   "han": "31/08/2026",
+   "han_goc": "31/08/2026",
+   "doi": 0,
+   "dk": 5,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": true,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "29/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 5,
+    "dh": 5,
+    "cd": 5,
+    "ht": 4,
+    "tong": 4.9,
+    "ai": "Trịnh Thái Ly",
+    "luc": "29/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Trịnh Thái Ly",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "29/08 17:00",
+     "s": 1
+    }
+   ],
+   "bcLoai": "Biên bản nghiệm thu và ảnh tình trạng hàng"
+  },
+  {
+   "id": "CV-240",
+   "ttl": "Vận hành sàn thương mại điện tử — kỳ 01/09",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F024",
+   "lam": "F033",
+   "bd": "28/08/2026",
+   "han": "01/09/2026",
+   "han_goc": "01/09/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "31/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 5,
+    "dh": 5,
+    "cd": 4,
+    "ht": 5,
+    "tong": 4.85,
+    "ai": "Lê Thanh Long",
+    "luc": "31/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Lê Thanh Long",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "31/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-241",
+   "ttl": "Rà soát hàng cận date — kỳ 28/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F008",
+   "lam": "F015",
+   "bd": "20/08/2026",
+   "han": "28/08/2026",
+   "han_goc": "28/08/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "26/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 3,
+    "dh": 5,
+    "cd": 3,
+    "ht": 5,
+    "tong": 3.8,
+    "ai": "Nguyễn Văn Nhu",
+    "luc": "26/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Nguyễn Văn Nhu",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "26/08 17:00",
+     "s": 1
+    }
+   ]
+  },
+  {
+   "id": "CV-242",
+   "ttl": "Viết nội dung cho nhóm nhãn — kỳ 29/08",
+   "tt": "HOAN_THANH",
+   "cha": null,
+   "mp": true,
+   "loai": "CONG_VIEC",
+   "giao": "F024",
+   "lam": "F030",
+   "bd": "26/08/2026",
+   "han": "29/08/2026",
+   "han_goc": "29/08/2026",
+   "doi": 0,
+   "dk": 3,
+   "ah": 3,
+   "kc": 3,
+   "mat": "NOI_BO",
+   "phoihop": [],
+   "theodoi": [],
+   "truoc": [],
+   "tien": 0,
+   "tienLoai": "CHI",
+   "sk": "BT",
+   "bc": false,
+   "files": [],
+   "chuoi": null,
+   "ci": 0,
+   "sp": "Đã nghiệm thu",
+   "tc": [
+    {
+     "t": "Hoàn thành theo yêu cầu",
+     "d": true
+    }
+   ],
+   "nop": {
+    "t": "29/08 16:00",
+    "x": "Đã nộp."
+   },
+   "diem": {
+    "cl": 4,
+    "dh": 5,
+    "cd": 3,
+    "ht": 4,
+    "tong": 4.15,
+    "ai": "Lê Thanh Long",
+    "luc": "29/08 17:00"
+   },
+   "log": [
+    {
+     "w": "Lê Thanh Long",
+     "k": "nghiệm thu và chấm điểm",
+     "t": "29/08 17:00",
+     "s": 1
+    }
+   ]
+  }
+ ],
+ "MAU": [
+  {
+   "n": "Khoá sổ và lập BCTC nội bộ tháng",
+   "sp": "Bộ báo cáo tài chính nội bộ đã trình CFO",
+   "dk": 5,
+   "ng": 4,
+   "tc": [
+    "Khoá sổ đủ các phân hệ",
+    "Đối chiếu công nợ và tồn kho khớp",
+    "Nộp trước ngày 5 của tháng sau",
+    "CFO ký duyệt"
+   ],
+   "md": "KPI phòng: BCTC nội bộ hoàn thành đúng hạn trước ngày 5",
+   "luat": false,
+   "loai": "CHU_KY",
+   "id": "m1",
+   "boi": "Trịnh Thái Ly",
+   "luc": "12/08/2026",
+   "dung": 11
+  },
+  {
+   "n": "Kê khai và nộp thuế kỳ",
+   "sp": "Tờ khai đã nộp và chứng từ nộp thuế",
+   "dk": 3,
+   "ng": 2,
+   "tc": [
+    "Tờ khai khớp sổ",
+    "Nộp trước hạn luật định",
+    "Lưu chứng từ vào hồ sơ thuế"
+   ],
+   "buoc": [
+    "Kết xuất bảng kê hoá đơn đầu ra đầu vào",
+    "Đối chiếu với sổ kế toán",
+    "Lập tờ khai trên phần mềm HTKK",
+    "Trình Kế toán trưởng soát trước khi nộp",
+    "Nộp tờ khai và lưu chứng từ"
+   ],
+   "md": "KPI phòng: kê khai và nộp thuế đúng hạn 100%",
+   "luat": true,
+   "bc": true,
+   "loai": "CHU_KY",
+   "id": "m2",
+   "boi": "Doãn Thị Sáu",
+   "luc": "12/08/2026",
+   "dung": 8
+  },
+  {
+   "n": "Đối soát công nợ phải trả và lập lịch thanh toán",
+   "sp": "Bảng đối soát và lịch thanh toán đã duyệt",
+   "dk": 3,
+   "ng": 3,
+   "tc": [
+    "Đối chiếu đủ nhà cung cấp có phát sinh",
+    "Lệch quá 1% phải có xác nhận của Kế toán trưởng",
+    "CFO duyệt lịch thanh toán"
+   ],
+   "buoc": [
+    "Kết xuất công nợ phải trả từ phần mềm kế toán",
+    "Gửi thư đối chiếu cho nhà cung cấp có phát sinh",
+    "Tổng hợp phản hồi và lập bảng chênh lệch",
+    "Xếp thứ tự ưu tiên thanh toán theo hạn hợp đồng",
+    "Trình Kế toán trưởng ký nháy rồi trình CFO"
+   ],
+   "md": "KPI phòng: thời gian xử lý đề nghị thanh toán không quá 2 ngày làm việc",
+   "luat": false,
+   "bc": true,
+   "loai": "CHU_KY",
+   "id": "m3",
+   "boi": "Doãn Thị Sáu",
+   "luc": "14/08/2026",
+   "dung": 4
+  },
+  {
+   "n": "Đối soát công nợ theo nhóm khách hàng",
+   "sp": "Bảng đối soát đã ký xác nhận",
+   "dk": 3,
+   "ng": 3,
+   "tc": [
+    "Đủ số khách hàng trong nhóm",
+    "Số liệu khớp sổ kế toán",
+    "Có chữ ký xác nhận",
+    "Lệch quá ngưỡng thì có xác nhận người thứ hai"
+   ],
+   "md": "KPI phòng: công nợ quá hạn dưới 5% doanh thu",
+   "luat": false,
+   "loai": "CHU_KY",
+   "id": "m4",
+   "boi": "Doãn Thị Sáu",
+   "luc": "14/08/2026",
+   "dung": 6
+  },
+  {
+   "n": "Rà soát hợp đồng sắp hết hạn",
+   "sp": "Bản đối chiếu điều khoản và đề xuất phương án",
+   "dk": 3,
+   "ng": 5,
+   "tc": [
+    "So sánh với ít nhất 2 phương án thay thế",
+    "Đánh giá chi phí chuyển đổi",
+    "Trình BGĐ quyết định"
+   ],
+   "md": "Không để hợp đồng hết hạn mà chưa có phương án",
+   "luat": false,
+   "loai": "CONG_VIEC",
+   "id": "m5",
+   "boi": "Trịnh Thái Ly",
+   "luc": "16/08/2026",
+   "dung": 0
+  },
+  {
+   "n": "Giải trình theo yêu cầu cơ quan nhà nước",
+   "sp": "Công văn giải trình kèm hồ sơ chứng minh",
+   "dk": 5,
+   "ng": 3,
+   "tc": [
+    "Đối chiếu số liệu sổ với hồ sơ đã nộp",
+    "Giải thích được từng khoản chênh",
+    "Pháp chế soát trước khi gửi"
+   ],
+   "md": "Trả lời trong thời hạn luật định, tránh bị ấn định",
+   "luat": true,
+   "bc": true,
+   "loai": "DOT_XUAT",
+   "id": "m6",
+   "boi": "Trịnh Thái Ly",
+   "luc": "16/08/2026",
+   "dung": 0
+  }
+ ],
+ "NT": [
+  {
+   "to": "F037",
+   "ic": "a",
+   "tx": "<b>Doãn Thị Sáu</b> giao cho bạn việc <b>Kê khai và nộp thuế GTGT kỳ tháng 8/2026</b>",
+   "tm": "04/09 08:34",
+   "un": 1,
+   "go": "CV-052"
+  },
+  {
+   "to": "F037",
+   "ic": "r",
+   "tx": "Việc <b>Lập bảng kê hoá đơn đầu vào tháng 8/2026</b> đến hạn <b>hôm nay</b>",
+   "tm": "04/09 08:00",
+   "un": 1,
+   "go": "CV-046"
+  },
+  {
+   "to": "F038",
+   "ic": "r",
+   "tx": "Việc <b>Đối chiếu số dư ngân hàng tuần 35</b> đã <b>quá hạn 2 ngày</b>",
+   "tm": "04/09 08:00",
+   "un": 1,
+   "go": "CV-041"
+  },
+  {
+   "to": "F038",
+   "ic": "a",
+   "tx": "<b>Doãn Thị Sáu</b> giao cho bạn việc <b>Đối soát công nợ phải trả tháng 9</b>",
+   "tm": "04/09 08:30",
+   "un": 1,
+   "go": "CV-050"
+  },
+  {
+   "to": "F005",
+   "ic": "",
+   "tx": "<b>Doãn Thị Sáu</b> đã nộp <b>Báo cáo tài chính nội bộ tháng 8/2026</b>, chờ bạn duyệt",
+   "tm": "03/09 17:22",
+   "un": 1,
+   "go": "CV-048"
+  },
+  {
+   "to": "F036",
+   "ic": "",
+   "tx": "<b>Lê Quang Anh</b> nhắn trong việc <b>Đối chiếu số dư ngân hàng tuần 35</b>",
+   "tm": "02/09 16:40",
+   "un": 0,
+   "go": "CV-041"
+  },
+  {
+   "to": "F036",
+   "ic": "g",
+   "tx": "<b>Trịnh Thái Ly</b> đã duyệt <b>Lập bảng lương tháng 8</b> — điểm 4.75",
+   "tm": "03/09 09:40",
+   "un": 0,
+   "go": "CV-039"
+  }
+ ],
+ "CH": {
+  "thuBayNuaNgay": true,
+  "chuNhatNghi": true,
+  "sucTuan": 8,
+  "wipTran": 5,
+  "spanTran": 8,
+  "nhipNgay": 45,
+  "ckSinhTruoc": 0,
+  "ckTranMo": 2,
+  "ckNhacTruoc": 2,
+  "ckTuDong": true,
+  "ckDoiNoiBo": "SAU",
+  "emBat": true,
+  "emThu": 0,
+  "emGio": "17:00",
+  "emKy": "TUAN"
+ },
+ "NGHI_LE": [
+  {
+   "ngay": "01/01/2026",
+   "ten": "Tết Dương lịch",
+   "xacNhan": true
+  },
+  {
+   "ngay": "15/02/2026",
+   "ten": "Tết Nguyên đán (29 tháng Chạp)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "16/02/2026",
+   "ten": "Tết Nguyên đán (30 tháng Chạp)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "17/02/2026",
+   "ten": "Tết Nguyên đán (mùng 1)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "18/02/2026",
+   "ten": "Tết Nguyên đán (mùng 2)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "19/02/2026",
+   "ten": "Tết Nguyên đán (mùng 3)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "20/02/2026",
+   "ten": "Tết Nguyên đán (mùng 4)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "26/04/2026",
+   "ten": "Giỗ Tổ Hùng Vương",
+   "xacNhan": false
+  },
+  {
+   "ngay": "30/04/2026",
+   "ten": "Ngày Giải phóng miền Nam",
+   "xacNhan": true
+  },
+  {
+   "ngay": "01/05/2026",
+   "ten": "Ngày Quốc tế Lao động",
+   "xacNhan": true
+  },
+  {
+   "ngay": "02/09/2026",
+   "ten": "Quốc khánh",
+   "xacNhan": true
+  },
+  {
+   "ngay": "03/09/2026",
+   "ten": "Quốc khánh (nghỉ bù)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "01/01/2027",
+   "ten": "Tết Dương lịch",
+   "xacNhan": true
+  },
+  {
+   "ngay": "04/02/2027",
+   "ten": "Tết Nguyên đán (29 tháng Chạp)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "05/02/2027",
+   "ten": "Tết Nguyên đán (30 tháng Chạp)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "06/02/2027",
+   "ten": "Tết Nguyên đán (mùng 1)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "08/02/2027",
+   "ten": "Tết Nguyên đán (mùng 2)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "09/02/2027",
+   "ten": "Tết Nguyên đán (mùng 3)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "10/02/2027",
+   "ten": "Tết Nguyên đán (mùng 4)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "15/04/2027",
+   "ten": "Giỗ Tổ Hùng Vương",
+   "xacNhan": false
+  },
+  {
+   "ngay": "30/04/2027",
+   "ten": "Ngày Giải phóng miền Nam",
+   "xacNhan": true
+  },
+  {
+   "ngay": "03/05/2027",
+   "ten": "Quốc tế Lao động (nghỉ bù)",
+   "xacNhan": false
+  },
+  {
+   "ngay": "02/09/2027",
+   "ten": "Quốc khánh",
+   "xacNhan": true
+  }
+ ],
+ "BAC_DUYET": [
+  {
+   "tu": 50000000,
+   "ai": "F005",
+   "ten": "CFO"
+  },
+  {
+   "tu": 500000000,
+   "ai": "F003",
+   "ten": "Tổng Giám đốc"
+  },
+  {
+   "tu": 2000000000,
+   "ai": "F001",
+   "ten": "Chủ tịch HĐQT"
+  }
+ ],
+ "TT_RIENG": [
+  {
+   "ma": "PC_DOITAC",
+   "ten": "Chờ đối tác phản hồi",
+   "dv": "PC",
+   "nhom": "DANG_LAM",
+   "dung": true,
+   "gt": "Đã gửi bản thảo hợp đồng, đang đợi phía đối tác"
+  },
+  {
+   "ma": "PC_TOAAN",
+   "ten": "Chờ cơ quan thụ lý",
+   "dv": "PC",
+   "nhom": "DANG_LAM",
+   "dung": true,
+   "gt": "Hồ sơ đã nộp, thời gian nằm ngoài tầm kiểm soát"
+  },
+  {
+   "ma": "KHO_SOLIEU",
+   "ten": "Chờ số liệu kế toán",
+   "dv": "KHO",
+   "nhom": "DANG_LAM",
+   "dung": true,
+   "gt": "Kiểm kê xong nhưng chưa đối chiếu được vì kế toán chưa khoá sổ"
+  },
+  {
+   "ma": "KHO_KIEMDEM",
+   "ten": "Đang kiểm đếm thực tế",
+   "dv": "KHO",
+   "nhom": "DANG_LAM",
+   "dung": false,
+   "gt": "Người kho đang đếm tại kho Bắc Ninh"
+  },
+  {
+   "ma": "XNK_HANGTAU",
+   "ten": "Chờ hãng tàu xác nhận",
+   "dv": "XNK",
+   "nhom": "DANG_LAM",
+   "dung": true,
+   "gt": "Đã đặt booking, đợi hãng trả lịch"
+  },
+  {
+   "ma": "XNK_THONGQUAN",
+   "ten": "Đang thông quan",
+   "dv": "XNK",
+   "nhom": "DANG_LAM",
+   "dung": true,
+   "gt": "Hồ sơ đã nộp hải quan"
+  },
+  {
+   "ma": "MKT_DUYETND",
+   "ten": "Chờ duyệt nội dung",
+   "dv": "MKT",
+   "nhom": "CHO_DUYET",
+   "dung": false,
+   "gt": "Bài đã viết xong, chờ Brand Manager đọc"
+  },
+  {
+   "ma": "TCKT_CHOCT",
+   "ten": "Chờ chứng từ gốc",
+   "dv": "TCKT",
+   "nhom": "DANG_LAM",
+   "dung": true,
+   "gt": "Thiếu hoá đơn bản gốc từ nhà cung cấp"
+  }
+ ],
+ "NGUON_DX": [
+  {
+   "ma": "NN",
+   "ten": "Cơ quan nhà nước",
+   "gt": "Công văn thuế, hải quan, quản lý thị trường"
+  },
+  {
+   "ma": "KH",
+   "ten": "Khách hàng",
+   "gt": "Khiếu nại, yêu cầu gấp ngoài hợp đồng"
+  },
+  {
+   "ma": "NCC",
+   "ten": "Nhà cung cấp",
+   "gt": "Giao thiếu, giao sai, đổi giá đột ngột"
+  },
+  {
+   "ma": "NB",
+   "ten": "Nội bộ",
+   "gt": "Ban Giám đốc giao thêm, phòng khác nhờ"
+  },
+  {
+   "ma": "SC",
+   "ten": "Sự cố",
+   "gt": "Hỏng hàng, mất mát, hệ thống ngừng chạy"
+  }
+ ],
+ "BANG_CHUNG": [
+  {
+   "viec": "Kiểm kê kho",
+   "bc": "Biên bản kiểm kê có đủ chữ ký thủ kho và kế toán",
+   "bat": true
+  },
+  {
+   "viec": "Nghiệm thu hàng nhập khẩu",
+   "bc": "Biên bản nghiệm thu và ảnh tình trạng hàng",
+   "bat": true
+  },
+  {
+   "viec": "Thanh toán nhà cung cấp",
+   "bc": "Đề nghị thanh toán có duyệt và uỷ nhiệm chi",
+   "bat": true
+  },
+  {
+   "viec": "Kê khai thuế",
+   "bc": "Tờ khai đã nộp và chứng từ nộp thuế",
+   "bat": true
+  },
+  {
+   "viec": "Ký hợp đồng",
+   "bc": "Bản hợp đồng đã ký đủ chữ ký và đóng dấu",
+   "bat": true
+  },
+  {
+   "viec": "Bài đăng truyền thông",
+   "bc": "Đường dẫn bài đã đăng",
+   "bat": false
+  },
+  {
+   "viec": "Tuyển dụng",
+   "bc": "Hồ sơ ứng viên và biên bản phỏng vấn",
+   "bat": false
+  }
+ ],
+ "THUAT_NGU": [
+  [
+   "Quá hạn",
+   "Việc <b>đang mở</b> và đã qua hạn cam kết. Là <b>trạng thái hôm nay</b>, còn sửa được.",
+   "quaHan(t)",
+   "Việc của tôi · Điều hành · Theo dõi · Cá nhân"
+  ],
+  [
+   "Trễ",
+   "Việc <b>đến hạn trong kỳ</b> mà không về đích đúng hạn — gồm cả việc đã xong nhưng nộp muộn. Là <b>kết quả của kỳ</b>, đã chốt.",
+   "treTruoc trong soLieuKy()",
+   "Giao ban · Đã xong"
+  ],
+  [
+   "Việc đang mở",
+   "Việc chưa được nghiệm thu xong. Không tính việc đã đóng.",
+   "viecMo(t)",
+   "Mọi cửa sổ"
+  ],
+  [
+   "Cần can thiệp",
+   "Việc đang mở có ít nhất một cảnh báo nguy cơ — <b>chưa chắc đã quá hạn</b>.",
+   "canCanThiep(t)",
+   "Điều hành · Theo dõi · Dự án"
+  ],
+  [
+   "Đang tắc",
+   "Việc đang mở nhưng dừng lại chờ người khác: chờ nghiệm thu, chờ trả lời ý kiến, hoặc bị trả lại.",
+   "yKien / CHO_DUYET / TRA_LAI",
+   "Giao ban · Cá nhân"
+  ],
+  [
+   "Dừng đồng hồ",
+   "Việc quá hạn nhưng <b>không tính là quá hạn</b> vì đang chờ bên ngoài: có ý kiến chưa trả lời, hoặc ở trạng thái riêng loại chờ ngoài.",
+   "dangDung(t)",
+   "Phiếu việc · mọi phép đếm quá hạn"
+  ],
+  [
+   "Quá tải",
+   "Tổng điểm độ khó của việc đang mở trong tuần vượt sức một tuần.",
+   "taiTuanNay(id) > SUC_TUAN",
+   "Điều hành · Cá nhân · Giao ban"
+  ]
+ ],
+ "VAI_TRO": {
+  "R_NV": {
+   "ten": "Nhân viên",
+   "tuDong": "NV",
+   "pv": "MINH",
+   "nhom": "Vai theo vị trí",
+   "mo": "Làm việc được giao và tự khai việc của mình",
+   "q": [
+    "xem_viec_minh",
+    "tu_tao_viec"
+   ]
+  },
+  "R_TT": {
+   "ten": "Tổ trưởng",
+   "tuDong": "TT",
+   "pv": "NHANH",
+   "nhom": "Vai theo vị trí",
+   "mo": "Giao và nghiệm thu trong tổ mình phụ trách",
+   "q": [
+    "xem_viec_minh",
+    "tu_tao_viec",
+    "giao_viec",
+    "duyet_viec",
+    "xem_doi"
+   ]
+  },
+  "R_PP": {
+   "ten": "Phó phòng",
+   "tuDong": "PP",
+   "pv": "NHANH",
+   "nhom": "Vai theo vị trí",
+   "mo": "Tầm nhìn như trưởng phòng; chỉ nghiệm thu khi được giao ô trưởng đơn vị",
+   "q": [
+    "xem_viec_minh",
+    "tu_tao_viec",
+    "giao_viec",
+    "xem_doi",
+    "bao_cao_ns",
+    "vao_quan_tri"
+   ]
+  },
+  "R_TP": {
+   "ten": "Trưởng phòng",
+   "tuDong": "TP",
+   "pv": "NHANH",
+   "nhom": "Vai theo vị trí",
+   "mo": "Chịu trách nhiệm toàn bộ nhánh phòng mình",
+   "q": [
+    "xem_viec_minh",
+    "tu_tao_viec",
+    "giao_viec",
+    "duyet_viec",
+    "xem_doi",
+    "bao_cao_ns",
+    "vao_quan_tri"
+   ]
+  },
+  "R_BGD": {
+   "ten": "Ban Giám đốc",
+   "tuDong": "BGD",
+   "pv": "CTY",
+   "nhom": "Vai theo vị trí",
+   "mo": "Điều hành toàn công ty",
+   "q": [
+    "xem_viec_minh",
+    "tu_tao_viec",
+    "giao_viec",
+    "duyet_viec",
+    "xem_doi",
+    "xem_toan_cty",
+    "bao_cao_ns",
+    "duyet_tien",
+    "sua_to_chuc",
+    "sua_tham_so",
+    "xem_nhat_ky",
+    "vao_quan_tri"
+   ]
+  },
+  "R_HDQT": {
+   "ten": "Hội đồng quản trị",
+   "tuDong": "HDQT",
+   "pv": "CTY",
+   "nhom": "Vai theo vị trí",
+   "mo": "Đọc toàn công ty, KHÔNG trực tiếp điều hành — không giao việc, không nghiệm thu",
+   "q": [
+    "xem_viec_minh",
+    "xem_doi",
+    "xem_toan_cty",
+    "bao_cao_ns",
+    "xem_nhat_ky"
+   ]
+  },
+  "R_KTT": {
+   "ten": "Kế toán trưởng",
+   "pv": "CTY",
+   "nhom": "Vai nghiệp vụ",
+   "mo": "Ký duyệt khoản chi vượt ngưỡng mà không cần đưa lên Ban Giám đốc",
+   "q": [
+    "duyet_tien"
+   ]
+  },
+  "R_KS": {
+   "ten": "Kiểm soát",
+   "pv": "CTY",
+   "nhom": "Vai nghiệp vụ",
+   "mo": "Đọc toàn công ty để đối chiếu, KHÔNG giao và KHÔNG nghiệm thu",
+   "q": [
+    "xem_toan_cty",
+    "xem_nhat_ky"
+   ]
+  },
+  "R_QTHT": {
+   "ten": "Quản trị hệ thống",
+   "pv": "CTY",
+   "nhom": "Vai hệ thống",
+   "mo": "Sửa cơ cấu, tham số, danh mục — KHÔNG kèm quyền đọc nội dung việc",
+   "q": [
+    "sua_to_chuc",
+    "sua_tham_so",
+    "xem_nhat_ky",
+    "vao_quan_tri"
+   ]
+  },
+  "R_TL": {
+   "ten": "Trợ lý điều hành",
+   "pv": "KHOI",
+   "nhom": "Vai nghiệp vụ",
+   "mo": "Thay lãnh đạo theo dõi khối, xem được nhưng không quyết",
+   "q": [
+    "xem_viec_minh",
+    "xem_doi",
+    "bao_cao_ns"
+   ]
+  }
+ },
+ "QUYEN": [
+  [
+   "xem_viec_minh",
+   "Xem việc có tên mình",
+   [
+    1,
+    2,
+    3,
+    4
+   ]
+  ],
+  [
+   "giao_viec",
+   "Giao việc cho người khác",
+   [
+    1,
+    2,
+    3
+   ]
+  ],
+  [
+   "duyet_viec",
+   "Nghiệm thu và chấm điểm",
+   [
+    1,
+    2,
+    3
+   ]
+  ],
+  [
+   "xem_doi",
+   "Xem việc của cấp dưới",
+   [
+    1,
+    2,
+    3
+   ]
+  ],
+  [
+   "xem_toan_cty",
+   "Xem việc toàn công ty",
+   [
+    1
+   ]
+  ],
+  [
+   "bao_cao_ns",
+   "Xem báo cáo đánh giá nhân sự",
+   [
+    1,
+    2
+   ]
+  ],
+  [
+   "duyet_tien",
+   "Duyệt khoản chi vượt ngưỡng",
+   [
+    1
+   ]
+  ],
+  [
+   "sua_to_chuc",
+   "Sửa cơ cấu tổ chức và nhân sự",
+   [
+    1
+   ]
+  ],
+  [
+   "sua_tham_so",
+   "Sửa tham số hệ thống và lịch làm việc",
+   [
+    1
+   ]
+  ],
+  [
+   "xem_nhat_ky",
+   "Xem nhật ký truy cập",
+   [
+    1
+   ]
+  ],
+  [
+   "vao_quan_tri",
+   "Vào cụm Thiết lập hệ thống",
+   [
+    1,
+    2
+   ]
+  ],
+  [
+   "tu_tao_viec",
+   "Tự tạo việc cho chính mình",
+   [
+    1,
+    2,
+    3,
+    4
+   ]
+  ]
+ ],
+ "PHAN_CONG": [
+  {
+   "uid": "F036",
+   "vai": "R_KTT",
+   "pv": "CTY",
+   "dv": null,
+   "boi": "F005",
+   "ngay": "12/06/2026",
+   "ly": "Ký duyệt chi dưới 500 triệu thay CFO khi CFO đi công tác"
+  },
+  {
+   "uid": "F004",
+   "vai": "R_KS",
+   "pv": "CTY",
+   "dv": null,
+   "boi": "F003",
+   "ngay": "03/03/2026",
+   "ly": "Kiểm soát tài chính — đối chiếu số liệu toàn công ty"
+  },
+  {
+   "uid": "F007",
+   "vai": "R_TL",
+   "pv": "KHOI",
+   "dv": "K_DH",
+   "boi": "F003",
+   "ngay": "20/07/2026",
+   "ly": "Trợ lý Tổng Giám đốc theo dõi Khối Điều hành chung"
+  }
+ ],
+ "HANG_GAN": [
+  {
+   "uid": "F004",
+   "hang": "DH",
+   "boi": "F003",
+   "ngay": "03/03/2026",
+   "ly": "Kiểm soát tài chính — cần đối chiếu số liệu toàn công ty khi tham mưu cho Ban Giám đốc"
+  },
+  {
+   "uid": "F007",
+   "hang": "TDV",
+   "boi": "F003",
+   "ngay": "20/07/2026",
+   "ly": "Trợ lý Tổng Giám đốc — chuẩn bị số liệu cho khối Điều hành chung"
+  }
+ ],
+ "AI_CH": {
+  "bat": true,
+  "duongDan": "/api/tro-ly",
+  "moHinh": "claude-sonnet-4-6",
+  "giauViecMat": true,
+  "tranThang": 4000000,
+  "daTieu": 512000,
+  "soViecToiDa": 60
+ },
+ "AI_DUNG": {},
+ "TIN_NGOAI": [
+  {
+   "ma": "TN01",
+   "nhom": "CHINH_SACH",
+   "ten": "Nghị định 273/2026/NĐ-CP về kinh doanh hàng miễn thuế",
+   "so": "273/2026/NĐ-CP",
+   "hieuLuc": "21/08/2026",
+   "nd": "Người mua không phải xuất trình giấy tờ nếu thông tin đã được chia sẻ từ cơ sở dữ liệu.",
+   "nguon": "Cổng Thông tin điện tử Chính phủ",
+   "url": "https://baochinhphu.vn/chinh-sach-moi-co-hieu-luc-tu-thang-8-2026-102260731143849894.htm",
+   "ngay": "31/07/2026",
+   "ah": "VUA",
+   "xacNhan": false,
+   "viSao": "Công ty có hoạt động xuất nhập khẩu; thay đổi thủ tục chứng từ ở khâu hàng miễn thuế có thể kéo theo thay đổi hồ sơ lưu và cách đối chiếu của Tổ Xuất nhập khẩu.",
+   "lam": "Pháp chế đọc toàn văn, xác định có áp dụng cho mặt hàng của công ty không; nếu có thì cập nhật quy trình hồ sơ trước ngày hiệu lực.",
+   "dv": "PC",
+   "han": "18/08/2026"
+  },
+  {
+   "ma": "TN02",
+   "nhom": "CHINH_SACH",
+   "ten": "Nghị định 274/2026/NĐ-CP — ưu đãi cho đầu tư công nghệ cao, công nghệ xanh",
+   "so": "274/2026/NĐ-CP",
+   "hieuLuc": "21/08/2026",
+   "nd": "Ưu đãi tài chính 5% cho nhà đầu tư ứng dụng công nghệ cao hoặc công nghệ xanh; chuẩn hoá chi phí lập hồ sơ đấu thầu tối đa 200 triệu đồng.",
+   "nguon": "Cổng Thông tin điện tử Chính phủ",
+   "url": "https://baochinhphu.vn/chinh-sach-moi-co-hieu-luc-tu-thang-8-2026-102260731143849894.htm",
+   "ngay": "31/07/2026",
+   "ah": "VUA",
+   "xacNhan": false,
+   "viSao": "Nếu công ty có kế hoạch đầu tư kho, thiết bị hoặc phần mềm trong 12 tháng tới thì đây là khoản ưu đãi bỏ qua thì mất.",
+   "lam": "Tài chính rà danh mục đầu tư dự kiến, đối chiếu điều kiện hưởng ưu đãi, báo Ban Giám đốc trong cuộc họp tháng.",
+   "dv": "TCKT",
+   "han": "15/09/2026"
+  },
+  {
+   "ma": "TN03",
+   "nhom": "CHINH_SACH",
+   "ten": "Thông tư 31/2026/TT-NHNN — cho thuê tài chính với phần mềm và dữ liệu",
+   "so": "31/2026/TT-NHNN",
+   "hieuLuc": "15/08/2026",
+   "nd": "Đưa phần mềm và dữ liệu vào danh mục tài sản được cho thuê tài chính.",
+   "nguon": "Cổng Thông tin điện tử Chính phủ",
+   "url": "https://baochinhphu.vn/chinh-sach-moi-co-hieu-luc-tu-thang-8-2026-102260731143849894.htm",
+   "ngay": "31/07/2026",
+   "ah": "THAP",
+   "xacNhan": false,
+   "viSao": "Mở thêm một cách tài trợ cho chính khoản đầu tư phần mềm quản lý công việc đang triển khai — chuyển từ chi một lần sang thuê.",
+   "lam": "Tài chính hỏi thử hai đơn vị cho thuê, so với phương án mua đứt.",
+   "dv": "TCKT",
+   "han": "30/09/2026"
+  },
+  {
+   "ma": "TN04",
+   "nhom": "CHINH_SACH",
+   "ten": "Nghị định 281/2026/NĐ-CP — nâng mức phạt vi phạm đất đai",
+   "so": "281/2026/NĐ-CP",
+   "hieuLuc": "31/08/2026",
+   "nd": "Nâng mức phạt tối đa lên 250–400 triệu đồng.",
+   "nguon": "Cổng Thông tin điện tử Chính phủ",
+   "url": "https://baochinhphu.vn/chinh-sach-moi-co-hieu-luc-tu-thang-8-2026-102260731143849894.htm",
+   "ngay": "31/07/2026",
+   "ah": "THEO_DOI",
+   "xacNhan": false,
+   "viSao": "Chỉ chạm tới công ty nếu có mặt bằng kho thuê hoặc sở hữu đang có vướng mắc hồ sơ đất.",
+   "lam": "Pháp chế xác nhận tình trạng hồ sơ mặt bằng kho; nếu sạch thì đóng dòng này lại.",
+   "dv": "PC",
+   "han": "25/08/2026"
+  },
+  {
+   "ma": "TN05",
+   "nhom": "THI_TRUONG",
+   "ten": "Kim ngạch xuất nhập khẩu cả nước tăng 28,1%",
+   "so": null,
+   "hieuLuc": null,
+   "nd": "7 tháng đầu 2026 đạt 659,58 tỷ USD. Xuất khẩu +21,7%, nhập khẩu +34,8%, nhập siêu 20,52 tỷ USD.",
+   "nguon": "Tổng cục Thống kê, dẫn qua VietnamPlus",
+   "url": "https://www.vietnamplus.vn/7-thang-nam-2026-tong-kim-ngach-xuat-nhap-khau-hang-hoa-tang-281-post1128008.vnp",
+   "ngay": "04/08/2026",
+   "ah": "CAO",
+   "xacNhan": true,
+   "viSao": "Ngành đang mở rộng nhanh. Khối lượng việc của công ty tăng theo là bình thường — nhưng tồn kho việc đang mở cũng tăng theo, và đó mới là chỗ phải xử.",
+   "lam": "Khi giao kế hoạch kỳ tới, tính thêm phần tăng theo thị trường thay vì giữ nguyên mức cũ rồi để phát sinh đột xuất chen ngang.",
+   "dv": "ADKD",
+   "han": null
+  },
+  {
+   "ma": "TN06",
+   "nhom": "THI_TRUONG",
+   "ten": "PMI sản xuất Việt Nam 51,8 — còn mở rộng nhưng chậm lại",
+   "so": null,
+   "hieuLuc": null,
+   "nd": "Tháng 6/2026 đạt 51,8, giảm từ 52,8. Đơn hàng mới còn tăng, doanh nghiệp vẫn cắt giảm nhân sự, chuỗi cung ứng còn chậm giao.",
+   "nguon": "S&P Global, dẫn qua VietnamPlus",
+   "url": "https://en.vietnamplus.vn/manufacturing-sector-ends-first-half-of-2026-with-firm-growth-as-pmi-holds-above-no-change-mark-post347589.vnp",
+   "ngay": "01/07/2026",
+   "ah": "VUA",
+   "xacNhan": true,
+   "viSao": "Chuỗi cung ứng chậm giao là sức ép tiến độ đến từ BÊN NGOÀI. Một phần việc trễ của công ty không phải lỗi nội bộ — nhưng phải chứng minh được bằng trạng thái riêng “chờ đối tác”, không phải bằng lời.",
+   "lam": "Bắt buộc dùng trạng thái riêng “chờ đối tác” cho việc đang chờ bên ngoài, để đồng hồ dừng đúng chỗ và báo cáo trễ không đổ oan cho người làm.",
+   "dv": "XNK",
+   "han": null
+  },
+  {
+   "ma": "TN07",
+   "nhom": "NGANH",
+   "ten": "Tỷ giá USD/VND và giá cước vận tải biển",
+   "so": null,
+   "hieuLuc": null,
+   "nd": "CHƯA NỐI NGUỒN. Cần nối tỷ giá trung tâm của Ngân hàng Nhà nước và một chỉ số cước container.",
+   "nguon": null,
+   "url": null,
+   "ngay": null,
+   "ah": "CAO",
+   "xacNhan": false,
+   "viSao": "Hai biến này chạm thẳng vào giá vốn của công ty xuất nhập khẩu — nhưng phần mềm chưa có số nên chưa nói được gì.",
+   "lam": "CNTT nối nguồn tỷ giá và chỉ số cước ở giai đoạn 2. Trước khi nối xong, KHÔNG dùng dòng này để kết luận.",
+   "dv": "TH",
+   "han": null
+  }
+ ],
+ "DOI_CHIEU": [
+  {
+   "ma": "DUNG_HAN",
+   "ten": "Tỷ lệ hoàn thành đúng hạn",
+   "donVi": "%",
+   "chieu": "cao_tot",
+   "moc": 85,
+   "dai": [
+    80,
+    90
+   ],
+   "loai": "TU_DAT",
+   "nguon": "Mức công ty tự đặt trong tham số hệ thống",
+   "ngay": "01/01/2026",
+   "y": "Đây là CAM KẾT của công ty, không phải chuẩn ngành. Muốn so với ngành thì phải mua một khảo sát thật rồi thay dòng này."
+  },
+  {
+   "ma": "CHO_DUYET",
+   "ten": "Thời gian phiếu nằm chờ ở khâu duyệt",
+   "donVi": "giờ",
+   "chieu": "thap_tot",
+   "moc": 8,
+   "dai": [
+    4,
+    8
+   ],
+   "loai": "TU_DAT",
+   "nguon": "Một ngày công — mức công ty tự đặt",
+   "ngay": "01/01/2026",
+   "y": "Quá một ngày công thì nút thắt nằm ở người duyệt, không ở người làm. Mốc này suy từ lịch làm việc của chính công ty nên kiểm chứng được."
+  },
+  {
+   "ma": "TRA_LAI",
+   "ten": "Tỷ lệ việc bị trả lại khi nghiệm thu",
+   "donVi": "%",
+   "chieu": "thap_tot",
+   "moc": 20,
+   "dai": [
+    10,
+    20
+   ],
+   "loai": "TU_DAT",
+   "nguon": "Ngưỡng cảnh báo trong tham số hệ thống",
+   "ngay": "01/01/2026",
+   "y": "Trả lại nhiều gần như luôn là tiêu chí nghiệm thu chưa rõ từ lúc giao, không phải người làm kém."
+  },
+  {
+   "ma": "DOT_XUAT",
+   "ten": "Tỷ lệ việc đột xuất trên tổng việc phát sinh",
+   "donVi": "%",
+   "chieu": "thap_tot",
+   "moc": 30,
+   "dai": [
+    20,
+    30
+   ],
+   "loai": "TU_DAT",
+   "nguon": "Ngưỡng cảnh báo trong tham số hệ thống",
+   "ngay": "01/01/2026",
+   "y": "Đột xuất cao thì vấn đề nằm ở khâu LẬP KẾ HOẠCH, không ở khâu thực hiện. Ép người làm nhanh hơn không chữa được chỗ này."
+  },
+  {
+   "ma": "SPAN",
+   "ten": "Số người một trưởng đơn vị quản trực tiếp",
+   "donVi": "người",
+   "chieu": "thap_tot",
+   "moc": 9,
+   "dai": [
+    5,
+    9
+   ],
+   "loai": "KHAO_SAT",
+   "nguon": "Dải thông dụng trong thiết kế tổ chức — CHƯA có nguồn khảo sát chính thức",
+   "ngay": null,
+   "y": "Vượt dải thì phiếu nằm chờ lâu ở một người. Dòng này thiếu nguồn — người quản trị phải thay bằng số khảo sát thật trước khi dùng để ra quyết định nhân sự."
+  },
+  {
+   "ma": "QUA_TAI",
+   "ten": "Tỷ lệ người đang quá tải",
+   "donVi": "%",
+   "chieu": "thap_tot",
+   "moc": 15,
+   "dai": [
+    0,
+    15
+   ],
+   "loai": "TU_DAT",
+   "nguon": "Mức công ty tự đặt",
+   "ngay": "01/01/2026",
+   "y": "Quá tải một vài người trong tuần cao điểm là bình thường; quá tải kéo dài nhiều kỳ là lỗi phân việc."
+  }
+ ],
+ "NK": [
+  {
+   "t": "04/09 09:12",
+   "ai": "F004",
+   "viec": "Mở việc mức Hạn chế",
+   "dt": "CV-080 · Giải trình chênh lệch doanh thu quý 2 theo yêu cầu cơ quan thuế",
+   "ip": "192.168.1.42"
+  },
+  {
+   "t": "04/09 08:47",
+   "ai": "F005",
+   "viec": "Duyệt khoản chi vượt ngưỡng",
+   "dt": "CV-050 · Đối soát công nợ phải trả và lập lịch thanh toán nhà cung cấp tháng 9 · 1,85 tỷ",
+   "ip": "192.168.1.11"
+  },
+  {
+   "t": "03/09 17:30",
+   "ai": "F003",
+   "viec": "Đổi tham số hệ thống",
+   "dt": "Sức tuần 7 → 8 điểm",
+   "ip": "192.168.1.5"
+  },
+  {
+   "t": "03/09 16:02",
+   "ai": "F036",
+   "viec": "Mở việc mức Hạn chế",
+   "dt": "CV-048 · Khoá sổ và lập báo cáo tài chính nội bộ tháng 8/2026",
+   "ip": "192.168.1.23"
+  },
+  {
+   "t": "03/09 11:15",
+   "ai": "F003",
+   "viec": "Sửa cơ cấu tổ chức",
+   "dt": "Tổ Hub Digital: nâng từ Nhóm lên Tổ",
+   "ip": "192.168.1.5"
+  },
+  {
+   "t": "02/09 14:20",
+   "ai": "F001",
+   "viec": "Đổi người duyệt",
+   "dt": "Tổ Xuất nhập khẩu: giao CFO duyệt tạm",
+   "ip": "192.168.1.2"
+  },
+  {
+   "t": "01/09 09:00",
+   "ai": "F005",
+   "viec": "Mở việc mức Hạn chế",
+   "dt": "CV-118 · Lập kế hoạch nhãn và chiến dịch quý 4",
+   "ip": "192.168.1.11"
+  }
+ ],
+ "RUI_RO": [
+  {
+   "id": "R1",
+   "da": "CV-060",
+   "mo": "Cơ quan thuế yêu cầu giải trình thêm ngoài danh mục, kéo dài thời gian",
+   "kn": 4,
+   "td": 4,
+   "nguoi": "F037",
+   "bp": "Chuẩn bị sẵn hồ sơ giải trình cho ba khoản chênh lớn nhất ngay từ đầu",
+   "tt": "DANG_THEO_DOI"
+  },
+  {
+   "id": "R2",
+   "da": "CV-060",
+   "mo": "Hoá đơn đầu vào của nhà cung cấp đã ngừng hoạt động không lấy lại được bản gốc",
+   "kn": 3,
+   "td": 5,
+   "nguoi": "F037",
+   "bp": "Lập danh sách sớm, gửi công văn xin xác nhận từ tháng 9",
+   "tt": "DANG_XU_LY"
+  },
+  {
+   "id": "R3",
+   "da": "CV-060",
+   "mo": "Kế toán trưởng nghỉ phép dài trùng giai đoạn cao điểm",
+   "kn": 2,
+   "td": 4,
+   "nguoi": "F005",
+   "bp": "Chỉ định người thay và bàn giao trước 15/10",
+   "tt": "DANG_THEO_DOI"
+  },
+  {
+   "id": "R4",
+   "da": "CV-090",
+   "mo": "Kiểm toán viên nêu điều chỉnh trọng yếu về ghi nhận doanh thu",
+   "kn": 3,
+   "td": 5,
+   "nguoi": "F005",
+   "bp": "Rà soát chính sách ghi nhận doanh thu trước khi kiểm toán vào",
+   "tt": "DANG_XU_LY"
+  },
+  {
+   "id": "R5",
+   "da": "CV-090",
+   "mo": "Chi phí kiểm toán vượt ngân sách do phát sinh thủ tục bổ sung",
+   "kn": 2,
+   "td": 3,
+   "nguoi": "F004",
+   "bp": "Chốt phạm vi và điều khoản phát sinh ngay trong hợp đồng",
+   "tt": "DA_DONG"
+  }
+ ],
+ "QUYET_DINH": [
+  {
+   "da": "CV-060",
+   "ngay": "28/08/2026",
+   "nd": "Thuê ngoài phần rà soát hoá đơn đầu vào cho quý 1 và quý 2",
+   "boi": "Trịnh Thái Ly",
+   "vi": "Khối lượng 12 tháng vượt khả năng của hai người trong hai tháng",
+   "ah": "Tăng chi phí 22 triệu, đổi lại rút ngắn 3 tuần"
+  },
+  {
+   "da": "CV-060",
+   "ngay": "02/09/2026",
+   "nd": "Không thuê tư vấn thuế bên ngoài cho phần giải trình",
+   "boi": "Ngô Quý Ước",
+   "vi": "Các khoản chênh đều thuộc loại đã từng giải trình thành công năm 2025",
+   "ah": "Tiết kiệm 60 triệu, rủi ro nếu cơ quan thuế đổi cách diễn giải"
+  },
+  {
+   "da": "CV-090",
+   "ngay": "22/10/2026",
+   "nd": "Chọn công ty kiểm toán B thay vì A dù giá cao hơn 8%",
+   "boi": "Đoàn Việt Dũng",
+   "vi": "B có kinh nghiệm ngành xuất nhập khẩu và cam kết nhân sự cố định",
+   "ah": "Chi phí tăng 13 triệu, giảm rủi ro phải giải thích lại từ đầu"
+  }
+ ],
+ "SEQ": 153,
+ "MSEQ": 10,
+ "DINH_BIEN": {
+  "MKT": 23,
+  "ADKD": 6,
+  "TH": 8,
+  "TCKT": 9,
+  "KHO": 12,
+  "XNK": 4,
+  "KDOL": 3,
+  "PC": 3
+ },
+ "ORDER": [
+  "F001",
+  "F003",
+  "F005",
+  "F018",
+  "F008",
+  "F022",
+  "F036",
+  "F037",
+  "F043",
+  "F034"
+ ],
+ "NGUONG_DUYET_THEM": 50000000,
+ "LS_DUYET": {
+  "F001": {
+   "soPhieu": 52,
+   "gioGiu": 31.2,
+   "traLai": 0.09
+  },
+  "F003": {
+   "soPhieu": 64,
+   "gioGiu": 22.8,
+   "traLai": 0.08
+  },
+  "F005": {
+   "soPhieu": 41,
+   "gioGiu": 26.4,
+   "traLai": 0.07
+  },
+  "F036": {
+   "soPhieu": 96,
+   "gioGiu": 9.1,
+   "traLai": 0.11
+  },
+  "F008": {
+   "soPhieu": 78,
+   "gioGiu": 11.4,
+   "traLai": 0.13
+  },
+  "F010": {
+   "soPhieu": 24,
+   "gioGiu": 7.2,
+   "traLai": 0.06
+  },
+  "F018": {
+   "soPhieu": 69,
+   "gioGiu": 13.8,
+   "traLai": 0.1
+  },
+  "F022": {
+   "soPhieu": 31,
+   "gioGiu": 15.6,
+   "traLai": 0.12
+  },
+  "F024": {
+   "soPhieu": 44,
+   "gioGiu": 12.1,
+   "traLai": 0.14
+  },
+  "F026": {
+   "soPhieu": 27,
+   "gioGiu": 18.3,
+   "traLai": 0.09
+  }
+ },
+ "LS_MAU": {
+  "m1": [
+   5,
+   3.5,
+   2.5,
+   2.5,
+   4.5,
+   3.5,
+   4.5,
+   3.5,
+   3.5,
+   4,
+   3.5
+  ],
+  "m2": [
+   3,
+   1.5,
+   2,
+   1.5,
+   3,
+   1.5,
+   1.5,
+   2
+  ],
+  "m3": [
+   3,
+   2,
+   4,
+   2
+  ],
+  "m4": [
+   2.5,
+   2.5,
+   1.5,
+   3,
+   3,
+   2.5
+  ]
+ },
+ "MOC_NHAC": [
+  {
+   "ma": "M1",
+   "con": 3,
+   "luat": 7,
+   "ten": "Sắp tới hạn",
+   "ai": "lam",
+   "gt": "còn kịp xoay xở hoặc nêu ý kiến"
+  },
+  {
+   "ma": "M2",
+   "con": 1,
+   "luat": 3,
+   "ten": "Cận hạn",
+   "ai": "lam",
+   "gt": "chốt lần cuối, hết thời gian xoay"
+  },
+  {
+   "ma": "M3",
+   "con": -1,
+   "luat": 1,
+   "ten": "Mốc leo thang",
+   "ai": "duyet",
+   "gt": "leo thang lên người duyệt"
+  }
+ ],
+ "THAM_SO": [
+  {
+   "ma": "sucTuan",
+   "ten": "Sức một tuần",
+   "dv": "điểm độ khó",
+   "muc": [
+    4,
+    6,
+    8,
+    10,
+    12,
+    15
+   ],
+   "chi": "Vạch đỏ quá tải ở Cá nhân, Điều hành, Giao ban và cột Tải người",
+   "can": "Phải đo lại bằng dữ liệu thật: lấy trung vị điểm độ khó mà những người về đích đúng hạn gánh được mỗi tuần."
+  },
+  {
+   "ma": "wipTran",
+   "ten": "Ngưỡng việc mở cùng lúc",
+   "dv": "việc",
+   "muc": [
+    3,
+    4,
+    5,
+    6,
+    8,
+    10
+   ],
+   "chi": "Cảnh báo mềm khi giao thêm việc, và dòng “đang mở N việc cùng lúc” ở báo cáo",
+   "can": "Không chặn, chỉ cảnh báo. Chặn cứng thì người ta lách bằng cách không ghi việc vào phần mềm."
+  },
+  {
+   "ma": "spanTran",
+   "ten": "Ngưỡng người duyệt trực tiếp",
+   "dv": "người",
+   "muc": [
+    4,
+    6,
+    8,
+    10,
+    12,
+    15
+   ],
+   "chi": "Cảnh báo nút thắt ở Cơ cấu tổ chức và Phân quyền",
+   "can": "Vượt ngưỡng thì người duyệt thành nút thắt, phiếu nằm chờ lâu."
+  },
+  {
+   "ma": "nhipNgay",
+   "ten": "Số ngày lịch sử cho dự báo",
+   "dv": "ngày",
+   "muc": [
+    14,
+    30,
+    45,
+    60,
+    90
+   ],
+   "chi": "Mô phỏng Monte Carlo ở Cá nhân và dự báo ngày về đích của dự án",
+   "can": "Ngắn quá thì dự báo nhiễu, dài quá thì không bắt kịp thay đổi cách làm."
+  }
+ ],
+ "MO_HINH": {
+  "claude-opus-4-6": {
+   "ten": "Claude Opus",
+   "manh": 3,
+   "vao": 75000,
+   "ra": 375000,
+   "dung": "Việc khó: tham mưu chiến lược, phân tích nhiều tầng nguyên nhân, đối chiếu dữ liệu ngoài",
+   "luu": "Đắt nhất, chậm hơn. Dùng cho câu hỏi mà một câu trả lời sai gây hậu quả thật."
+  },
+  "claude-sonnet-4-6": {
+   "ten": "Claude Sonnet",
+   "manh": 2,
+   "vao": 15000,
+   "ra": 75000,
+   "dung": "Việc thường ngày: tổng hợp kỳ, phân tích nút thắt, tư vấn phân việc",
+   "luu": "Cân bằng giữa chất lượng và chi phí. Đây là mô hình dùng mặc định."
+  },
+  "claude-haiku-4-6": {
+   "ten": "Claude Haiku",
+   "manh": 1,
+   "vao": 2500,
+   "ra": 12500,
+   "dung": "Việc nhẹ: hướng dẫn dùng phần mềm, tra thuật ngữ, tóm tắt việc của chính mình",
+   "luu": "Rẻ và nhanh. Đủ tốt cho câu hỏi có đáp án nằm sẵn trong gói dữ liệu."
+  }
+ },
+ "HANG_AI": {
+  "DH": {
+   "ten": "Hạng Điều hành",
+   "ic": "◆",
+   "tuDong": [
+    "HDQT",
+    "BGD"
+   ],
+   "mo": "Toàn quyền tham mưu: mọi nhiệm vụ, phạm vi toàn công ty, chọn được mô hình, xem được dữ liệu đối chiếu bên ngoài.",
+   "nv": [
+    "TONG_HOP",
+    "PHAN_TICH",
+    "SO_SANH",
+    "DANH_GIA",
+    "TU_VAN",
+    "HUONG_DAN"
+   ],
+   "pv": "CTY",
+   "moHinh": [
+    "claude-opus-4-6",
+    "claude-sonnet-4-6",
+    "claude-haiku-4-6"
+   ],
+   "macDinh": "claude-sonnet-4-6",
+   "chonMoHinh": true,
+   "luotNgay": 40,
+   "tranThang": 3000000,
+   "soViec": 60,
+   "ngoai": true,
+   "phanTichSau": true
+  },
+  "TDV": {
+   "ten": "Hạng Trưởng đơn vị",
+   "ic": "◈",
+   "tuDong": [
+    "TP",
+    "PP",
+    "TT"
+   ],
+   "mo": "Nhiệm vụ quản lý trong nhánh mình phụ trách. Không so sánh chéo đơn vị khác, không xem dữ liệu đối chiếu ngoài, mô hình cố định.",
+   "nv": [
+    "TONG_HOP",
+    "PHAN_TICH",
+    "DANH_GIA",
+    "TU_VAN",
+    "HUONG_DAN"
+   ],
+   "pv": "NHANH",
+   "moHinh": [
+    "claude-sonnet-4-6",
+    "claude-haiku-4-6"
+   ],
+   "macDinh": "claude-sonnet-4-6",
+   "chonMoHinh": false,
+   "luotNgay": 20,
+   "tranThang": 800000,
+   "soViec": 30,
+   "ngoai": false,
+   "phanTichSau": false
+  },
+  "NV": {
+   "ten": "Hạng Nhân viên",
+   "ic": "○",
+   "tuDong": [
+    "NV"
+   ],
+   "mo": "Hỏi cách dùng phần mềm và tóm tắt việc của chính mình. Không đọc dữ liệu người khác, mô hình nhẹ nhất.",
+   "nv": [
+    "HUONG_DAN",
+    "TONG_HOP"
+   ],
+   "pv": "MINH",
+   "moHinh": [
+    "claude-haiku-4-6"
+   ],
+   "macDinh": "claude-haiku-4-6",
+   "chonMoHinh": false,
+   "luotNgay": 10,
+   "tranThang": 150000,
+   "soViec": 10,
+   "ngoai": false,
+   "phanTichSau": false
+  }
+ },
+ "NHIEM_VU": {
+  "TONG_HOP": {
+   "ten": "Tổng hợp tình hình",
+   "ic": "▤",
+   "mo": "Gộp số liệu kỳ thành một bản đọc được trong ba phút",
+   "goi": "ky",
+   "ra": "Bản tóm tắt kỳ: kết quả, chỗ lệch, việc phải quyết"
+  },
+  "PHAN_TICH": {
+   "ten": "Phân tích nguyên nhân",
+   "ic": "◔",
+   "mo": "Vì sao chỗ này trễ, nút thắt nằm ở đâu",
+   "goi": "ky",
+   "ra": "Chuỗi nguyên nhân có bằng chứng, tách nguyên nhân gốc khỏi triệu chứng"
+  },
+  "SO_SANH": {
+   "ten": "So sánh",
+   "ic": "⇄",
+   "mo": "Hai đơn vị, hai khối, hai kỳ — khác nhau ở đâu và vì sao",
+   "goi": "ss",
+   "ra": "Bảng đối chiếu kèm giải thích chênh lệch"
+  },
+  "DANH_GIA": {
+   "ten": "Đánh giá",
+   "ic": "◈",
+   "mo": "Một đơn vị, một khối hoặc một dự án đang ở đâu so với cam kết",
+   "goi": "ky",
+   "ra": "Nhận định kèm mức tin cậy và điều kiện để kết luận đổi"
+  },
+  "TU_VAN": {
+   "ten": "Tư vấn cải thiện",
+   "ic": "◎",
+   "mo": "Nên làm gì để kỳ sau khá hơn — người, quy trình, tham số",
+   "goi": "ky",
+   "ra": "Danh sách việc nên làm, xếp theo tác động trên công sức"
+  },
+  "HUONG_DAN": {
+   "ten": "Hướng dẫn dùng phần mềm",
+   "ic": "?",
+   "mo": "Cửa sổ này để làm gì, con số kia tính thế nào, tôi phải bấm vào đâu",
+   "goi": "pm",
+   "ra": "Chỉ dẫn theo đúng màn hình đang mở và quyền đang có"
+  }
+ },
+ "KY": [
+  "06/2026",
+  "07/2026",
+  "08/2026"
+ ]
+}
